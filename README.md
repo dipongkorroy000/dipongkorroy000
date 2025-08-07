@@ -61,7 +61,7 @@
 ###
 
 <p align="center">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=11147618695&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false">
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=11147618695&cover_image=true&theme=novatorem&show_online=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false">
 </p>
 
 <p align="">
