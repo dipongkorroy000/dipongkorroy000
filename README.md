@@ -12,7 +12,7 @@
 
 ###
 
-<h1>I am a MERN Stack Developer</h1>
+<h1 align="center">MERN Stack Developer</h1>
 
 <p align="center">
   Full Stack Developer specializing in modern web technologies<br><br>
