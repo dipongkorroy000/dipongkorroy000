@@ -15,9 +15,8 @@
 <h2 align="center">MERN Stack Developer</h2>
 
 <p align="center">
-  Full Stack Developer specializing in modern web technologies<br><br>
   - 🔭 Currently working as a tourism website.<br>
-  - 📚 Learning advanced React patterns and cloud architecture<br>
+  - 📚 Learning advanced Next.js patterns and PostgreSQL Database<br>
   - ⚡ Passionate about open-source contributions and tech blogging<br>
   - 🌱 I am exploring Next.js.
 </p>
