@@ -23,8 +23,6 @@
   - 🌱 Exploring AI/ML integration in web applications
 </p>
 
-<a href="https://career-code-452b5.web.app">Live Project</a>
-
 ###
 
 <h3 align="left">🛠 Tech Stack</h3>
