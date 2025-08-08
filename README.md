@@ -11,8 +11,8 @@
 <h3 align="center">👨‍💻  About Me</h3>
 
 ###
-
-<h1 align="center">MERN Stack Developer</h1>
+<h2 align="center">Dipongkor Chandra Roy</h2>
+<h2 align="center">MERN Stack Developer</h2>
 
 <p align="center">
   Full Stack Developer specializing in modern web technologies<br><br>
