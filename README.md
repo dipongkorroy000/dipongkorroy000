@@ -23,8 +23,7 @@
   - 🌱 Exploring AI/ML integration in web applications
 </p>
 
-** Live Project 
-<a href= "https://career-code-452b5.web.app></a>
+<a href="https://career-code-452b5.web.app">Live Project: career-code-452b5.web.app</a>
 
 ###
 
