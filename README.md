@@ -11,11 +11,11 @@
 
 ###
 
-<h3 align="left">👨‍💻  About Me</h3>
+<h3 align="center">👨‍💻  About Me</h3>
 
 ###
 
-<p align="left">
+<p align="center">
   Full Stack Developer specializing in modern web technologies<br><br>
   - 🔭 Currently working as a Web Developer<br>
   - 📚 Learning advanced React patterns and cloud architecture<br>
@@ -25,7 +25,7 @@
 
 ###
 
-<h3 align="left">🛠 Tech Stack</h3>
+<h3 align="center">🛠 Tech Stack</h3>
 
 ###
 
