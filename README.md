@@ -52,7 +52,7 @@
 
 ###
 
-<h3 align="left">🔥 My Status</h3>
+<h3 align="center">🔥 My Status</h3>
 
 
 ###
