@@ -11,7 +11,7 @@
 <h3 align="center">👨‍💻  About Me</h3>
 
 ###
-<h2 align="center">Dipongkor Chandra Roy</h2>
+<p align="center">Dipongkor Chandra Roy</p>
 <h2 align="center">MERN Stack Developer</h2>
 
 <p align="center">
