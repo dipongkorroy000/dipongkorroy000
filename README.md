@@ -4,13 +4,6 @@
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
 
-<div><h2>Demo</h2>
-
-
-  
-  <h2>Demo</h2>
-  </div>
-
 ###
 
 <h3 align="center">👨‍💻 HI , I am here</h3>
