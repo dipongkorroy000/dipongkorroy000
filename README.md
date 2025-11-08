@@ -1,8 +1,8 @@
 
 
-<div align="center">
+<!-- <div align="center">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
+</div> -->
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 <h3 align="center">Dipongkor Roy</h3>
-<h2 align="center">MERN Stack Developer</h2>
+<h2 align="center">Full Stack Developer</h2>
 
 <p align="center">
   - 🔭 Currently working as a tourism website.<br>
