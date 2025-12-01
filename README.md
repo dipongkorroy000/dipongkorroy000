@@ -13,10 +13,11 @@
 <h2 align="center">Full Stack Developer</h2>
 
 <p align="center">
-  - 🔭 Currently working as a tourism website.<br>
-  - 📚 Learning advanced Next.js patterns and PostgreSQL Database<br>
-  - ⚡ Passionate about open-source contributions and tech blogging<br>
-  - 🌱 I am exploring Next.js.
+  🔭 Currently working on a tourism website <br>
+  📚 Learning advanced Next.js patterns & PostgreSQL Database <br>
+  ⚡ Passionate about open-source contributions & tech blogging <br>
+  🌱 Exploring Next.js ecosystem <br>
+  💻 Currently learning C++ for DSA & problem solving, and Python for OOP
 </p>
 
 ###
