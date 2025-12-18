@@ -15,7 +15,7 @@
 
 <h3 align="center">🛠 Tech Stack</h3>
 
-<div align="center">
+<div align="">
   <!-- Frontend -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
@@ -26,7 +26,7 @@
    <!-- <img src="" height="40" alt="CPP" /> -->
 </div>
 
-<div align="center">
+<div align="">
   <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="TailwindCSS" />
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" height="40" alt="Firebase" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" height="40" alt="Redux" />
@@ -35,7 +35,7 @@
    <!-- <img src="" height="40" alt="CPP" /> -->
 </div>
 
-<div align="center">
+<div align="">
   <!-- Backend -->
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/node_js.png" height="40" alt="Node" />
     <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/express.png" height="40" alt="Express" />
@@ -48,11 +48,6 @@
   <!-- Tools -->
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="40" alt="Postman" />
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="40" alt="Git" />
-</div>
-
-<!-- Express.js (white wordmark) -->
-<div align="center" style="background-color:#000000; padding:5px; border-radius:5px; display:inline-block;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" height="40" alt="Express.js" />
 </div>
 
 ---
