@@ -13,7 +13,7 @@
 
 ---
 
-<h3 align="">🛠 Tech Stack</h3>
+<h3 align="">🛠 Technologies I Work With</h3>
 
 <div align="">
   <!-- Frontend -->
