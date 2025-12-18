@@ -25,7 +25,7 @@
     <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c.png" height="40" alt="C" />
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c++.png" height="40" alt="CPP" />
    <!-- <img src="" height="40" alt="CPP" /> -->
-<h4 align="">Tools & Technologies</h4>
+<h4 align="">Library/Frameworks & Technologies</h4>
   <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="TailwindCSS" />
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" height="40" alt="Firebase" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" height="40" alt="Redux" />
