@@ -54,7 +54,7 @@
 
 <h3 align="">🌐 Connect With Me</h3>
 
-<div align="center">
+<div align="">
   <a href="mailto:dipongkorroy000@gmail.com"><img src="https://img.shields.io/badge/email-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/dipongkor"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://www.instagram.com/dipongkorroy000"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
