@@ -26,6 +26,8 @@
    <!-- <img src="" height="40" alt="CPP" /> -->
 </div>
 
+---
+
 <div align="">
   <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="TailwindCSS" />
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" height="40" alt="Firebase" />
