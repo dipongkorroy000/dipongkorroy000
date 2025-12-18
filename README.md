@@ -6,9 +6,9 @@
 <p align="">
   🔭 Building a scalable <b>Tourism Platform</b> <br>
   📚 Exploring advanced <b>Next.js patterns</b> & <b>PostgreSQL</b> <br>
-  💻 Learning <b>C++</b> for DSA & <b>Python</b> for OOP <br>
   ⚡ Passionate about <b>Open Source</b> & <b>Tech Blogging</b> <br>
   🌱 Continuously growing in the <b>Next.js ecosystem</b>
+  💻 Currently Learning <b>C++</b> for DSA & <b>Python</b> for OOP <br>
 </p>
 
 ---
