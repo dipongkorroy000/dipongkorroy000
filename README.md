@@ -1,9 +1,9 @@
-<h1 align="center">👨‍💻 Hi, I'm Dipongkor Roy</h1>
-<h3 align="center">Full Stack Developer | Problem Solver | Tech Enthusiast</h3>
+<h1 align="">👨‍💻 Hi, I'm Dipongkor Roy</h1>
+<h3 align="">Full Stack Developer | Problem Solver | Tech Enthusiast</h3>
 
 ---
 
-<p align="center">
+<p align="">
   🔭 Building a scalable <b>Tourism Platform</b> <br>
   📚 Exploring advanced <b>Next.js patterns</b> & <b>PostgreSQL</b> <br>
   💻 Learning <b>C++</b> for DSA & <b>Python</b> for OOP <br>
@@ -13,7 +13,7 @@
 
 ---
 
-<h3 align="center">🛠 Tech Stack</h3>
+<h3 align="">🛠 Tech Stack</h3>
 
 <div align="">
   <!-- Frontend -->
@@ -44,7 +44,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" height="40" alt="PostgreSQL" />
 </div>
 
-<div align="center">
+<div align="">
   <!-- Tools -->
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="40" alt="Postman" />
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="40" alt="Git" />
@@ -52,9 +52,9 @@
 
 ---
 
-<h3 align="center">🌐 Connect With Me</h3>
+<h3 align="">🌐 Connect With Me</h3>
 
-<div align="center">
+<div align="">
   <a href="https://www.linkedin.com/in/dipongkor"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://www.instagram.com/dipongkorroy000"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://x.com/dipongkorroy000"><img src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/></a>
@@ -62,7 +62,7 @@
 
 ---
 
-<p align="center">
+<p align="">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
 </p>
 
