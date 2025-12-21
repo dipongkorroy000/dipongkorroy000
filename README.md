@@ -1,5 +1,5 @@
 <h1 align="">👨‍💻 Hi, I'm Dipongkor Roy</h1>
-<h3 align="">Full Stack Developer | Problem Solver | Tech Enthusiast</h3>
+<h3 align="">Web Developer | Problem Solver | Tech Enthusiast</h3>
 
 ---
 
