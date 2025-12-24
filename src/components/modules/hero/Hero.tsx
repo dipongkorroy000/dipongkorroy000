@@ -6,11 +6,11 @@ import {Github, Linkedin, Mail} from "lucide-react";
 
 const Hero = () => {
   return (
-    <section className=" mt-28">
+    <section className="mt-28 max-md:mt-20">
       <div className="text-center space-y-4">
         <h2 className="text-md font-mono uppercase tracking-widest bg-clip-text">Full Stack Developer</h2>
-        <h1 className="text-4xl font-bold">Hello, I&apos;m Dipongkor Roy</h1>
-        <p className="max-w-xl mx-auto text-muted-foreground">
+        <h1 className="text-4xl max-md:text-2xl font-bold">Hello, I&apos;m Dipongkor Roy</h1>
+        <p className="max-w-xl max-md:text-sm mx-auto text-muted-foreground">
           I build modern web applications with React, Node.js, and TypeScript. Passionate about creating efficient, scalable, and user-friendly solutions.
         </p>
 

@@ -27,10 +27,10 @@ export default function Navbar() {
 
   return (
     <header className={`sticky top-0 z-50 w-full transition-transform duration-500 ${showNavbar ? "translate-y-0" : "-translate-y-full"}`}>
-      <div className="relative mx-auto max-w-5xl rounded-2xl py-2 backdrop-blur-sm bg-clip-border shadow-sm">
+      <div className="relative mx-auto max-w-5xl rounded-2xl py-2 backdrop-blur-sm bg-clip-border shadow-sm max-md:px-3">
         {/* Watermark-style background text */}
         <div className="absolute inset-0 flex items-center justify-center opacity-5 pointer-events-none select-none mt-2">
-          <span className="text-4xl font-extrabold">PORTFOLIO</span>
+          <span className="text-4xl max-md:-ml-32 max-md:text-2xl font-extrabold">PORTFOLIO</span>
         </div>
 
         {/* Navigation */}
@@ -39,7 +39,7 @@ export default function Navbar() {
             <Image src="https://i.ibb.co.com/qFF62B5T/D3.png" height={50} width={50} alt="Logo" className="hover:scale-105 transition duration-300" />
           </Link>
 
-          <div className="flex gap-6 text-blue-600 dark:text-blue-400 font-medium text-sm">
+          <div className="flex gap-6 max-md:gap-3 text-blue-600 dark:text-blue-400 font-medium text-sm">
             <Button onClick={() => smoothScrollTo("projects")} className="bg-primary hover:bg-chart-3 transition-all duration-500 ease-in-out hover:scale-95">
               Projects
             </Button>

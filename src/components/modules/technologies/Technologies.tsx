@@ -15,8 +15,8 @@ import {
 
 export default function Technologies() {
   return (
-    <section className="max-w-5xl mx-auto px-6 py-12">
-      <h2 className="text-2xl font-bold text-center mb-10">2. Technologies I Work With</h2>
+    <section className="max-w-5xl mx-auto py-10">
+      <h2 className="text-2xl font-bold text-center mb-10 max-md:mb-5 max-md:text-xl max-md:text-start px-8">2. Technologies I Work With</h2>
 
       <div className="flex flex-col gap-10 justify-center items-center text-center border-t border-b border-muted dark:border-muted w-fit mx-auto p-10 shadow-2xs">
         {/* Programming Languages */}
