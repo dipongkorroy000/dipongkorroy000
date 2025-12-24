@@ -99,7 +99,7 @@ export default function Projects() {
         {/* project 3 */}
         <div className="flex flex-col md:flex-row p-5 items-center md:space-x-6 space-y-6 md:space-y-0">
           <div className="space-y-5 flex-1">
-            <h2 className="text-3xl max-md:text-2xl font-bold">3.3 Local Guide Platform</h2>
+            <h2 className="text-3xl max-md:text-2xl font-bold">3.3 TaskNet Web Application</h2>
             <p className="text-justify leading-relaxed tracking-wide max-md:text-sm">
               Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime dicta itaque eos, suscipit doloremque cumque necessitatibus ex consequuntur modi,
               voluptates reiciendis deserunt inventore temporibus libero dolorem architecto. Pariatur, nobis libero?

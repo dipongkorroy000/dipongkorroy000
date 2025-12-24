@@ -10,7 +10,7 @@ export function ThemeProvider({children, ...props}: React.ComponentProps<typeof 
   if (!mounted) return null;
 
   return (
-    <NextThemesProvider attribute="class" defaultTheme="light" enableSystem disableTransitionOnChange {...props}>
+    <NextThemesProvider attribute="class" defaultTheme="dark" enableSystem disableTransitionOnChange {...props}>
       {children}
     </NextThemesProvider>
   );

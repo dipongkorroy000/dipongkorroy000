@@ -3,8 +3,8 @@ import Image from "next/image";
 
 export default function About() {
   return (
-    <section className="py-20 max-md:py-10 max-w-5xl mx-auto text-foreground">
-      <h1 className="text-center text-2xl mb-5 font-bold max-md:text-xl max-md:text-start px-8">1. About Me</h1>
+    <section className="py-20 max-md:py-10 max-w-5xl mx-auto text-foreground px-8 xl:px-14">
+      <h1 className="text-center text-2xl mb-5 font-bold max-md:text-xl max-md:text-start">1. About Me</h1>
       <div className="flex flex-col md:flex-row items-center gap-8">
         {/* Profile Image */}
         <div className="w-40 h-40 rounded-full overflow-hidden border">
@@ -19,7 +19,7 @@ export default function About() {
         </div>
 
         {/* Biography */}
-        <div className="flex-1 space-y-4 max-w-4xl px-8 rounded-lg bg-white/10 max-md:text-sm">
+        <div className="flex-1 space-y-4 max-w-4xl rounded-lg bg-white/10 max-md:text-sm p-5">
           {/* <h3 className="text-2xl font-semibold text-center text-blue-600">Who I Am</h3> */}
 
           <p className="text-justify leading-relaxed tracking-wide">
