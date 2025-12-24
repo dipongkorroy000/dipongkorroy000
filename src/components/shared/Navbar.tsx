@@ -27,10 +27,10 @@ export default function Navbar() {
 
   return (
     <header className={`sticky top-0 z-50 w-full transition-transform duration-500 ${showNavbar ? "translate-y-0" : "-translate-y-full"}`}>
-      <div className="relative mx-auto max-w-5xl rounded-2xl border py-2 backdrop-blur-sm bg-clip-border shadow-md">
+      <div className="relative mx-auto max-w-5xl rounded-2xl py-2 backdrop-blur-sm bg-clip-border shadow-sm">
         {/* Watermark-style background text */}
         <div className="absolute inset-0 flex items-center justify-center opacity-5 pointer-events-none select-none mt-2">
-          <span className="text-7xl font-extrabold">PORTFOLIO</span>
+          <span className="text-4xl font-extrabold">PORTFOLIO</span>
         </div>
 
         {/* Navigation */}

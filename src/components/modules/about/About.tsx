@@ -19,7 +19,7 @@ export default function About() {
         </div>
 
         {/* Biography */}
-        <div className="flex-1 space-y-4 max-w-4xl p-8 rounded-lg bg-white/10 backdrop-blur-sm">
+        <div className="flex-1 space-y-4 max-w-4xl p-8 rounded-lg bg-white/10">
           {/* <h3 className="text-2xl font-semibold text-center text-blue-600">Who I Am</h3> */}
 
           <p className="text-justify leading-relaxed tracking-wide">

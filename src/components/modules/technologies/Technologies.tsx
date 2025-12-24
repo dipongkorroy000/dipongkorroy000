@@ -18,7 +18,7 @@ export default function Technologies() {
     <section className="max-w-5xl mx-auto px-6 py-12">
       <h2 className="text-2xl font-bold text-center mb-10">2. Technologies I Work With</h2>
 
-      <div className="flex flex-col gap-10 justify-center items-center text-center border-t border-b dark:border-white w-fit mx-auto p-10 shadow-2xs border-r border-l dark:border-r-muted dark:border-l-muted border-white/30 shadow-chart-1">
+      <div className="flex flex-col gap-10 justify-center items-center text-center border-t border-b border-muted dark:border-muted w-fit mx-auto p-10 shadow-2xs">
         {/* Programming Languages */}
         <div>
           <h3 className="text-xl font-semibold  mb-4">Languages</h3>

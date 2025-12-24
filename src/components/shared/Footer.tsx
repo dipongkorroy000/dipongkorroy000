@@ -2,14 +2,10 @@ import {Github, Linkedin} from "lucide-react";
 
 export default function Footer() {
   return (
-    <footer className="relative w-full border-t py-10 bg-blur-2xl">
-      {/* Watermark background */}
-      <div className="absolute inset-0 flex items-center justify-center opacity-5 pointer-events-none">
-        <span className="text-[10rem] font-extrabold text-gray-400 dark:text-gray-600 select-none">D</span>
-      </div>
+    <footer className="w-full flex justify-between">
+      <div className="border-t flex-1"></div>
 
-      {/* Content */}
-      <div className="relative max-w-4xl mx-auto text-center">
+      <div className="py-20 mx-auto text-center min-w-7xl flex-1">
         <h2 className="text-2xl font-semibold mb-6 text-gray-800 dark:text-gray-200">Connect With Me</h2>
 
         <div className="flex items-center justify-center gap-8 text-gray-600 dark:text-gray-400">
@@ -35,6 +31,8 @@ export default function Footer() {
 
         <p className="mt-6 text-sm text-gray-500 dark:text-gray-400">© {new Date().getFullYear()} Dipongkor Roy. All rights reserved.</p>
       </div>
+
+      <div className="border-t flex-1"></div>
     </footer>
   );
 }

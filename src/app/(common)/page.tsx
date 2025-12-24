@@ -7,7 +7,7 @@ import Technologies from "@/src/components/modules/technologies/Technologies";
 export default function Home() {
   return (
     <>
-      <section className="max-w-7xl -mt-8 mx-auto border border-white/30 backdrop-blur-xl dark:border-muted">
+      <section className="max-w-7xl -mt-8 mx-auto border rounded-sm border-muted">
         <div>
           <Hero></Hero>
         </div>
