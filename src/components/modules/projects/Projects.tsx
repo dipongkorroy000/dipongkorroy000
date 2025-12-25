@@ -65,7 +65,7 @@ export default function Projects() {
             {/* Icons always visible at bottom-left */}
             <div className="absolute bottom-3 right-5 flex gap-5">
               <a
-                href="https://github.com/dipongkorroy000/L2-Assignment-006-client?tab=readme-ov-file"
+                href="https://github.com/dipongkorroy000/l2-project-006"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="transition-colors"
