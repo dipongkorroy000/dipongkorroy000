@@ -18,6 +18,7 @@ const geistMono = Geist_Mono({
 export const metadata: Metadata = {
   title: "Dipongkor Roy",
   description: "Portfolio webpage",
+  icons: "https://i.ibb.co.com/qFF62B5T/D3.png"
 };
 
 export default function RootLayout({children}: {children: React.ReactNode}) {
