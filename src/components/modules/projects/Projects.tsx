@@ -63,7 +63,7 @@ export default function Projects() {
             />
 
             {/* Icons always visible at bottom-left */}
-            <div className="absolute bottom-3 right-5 flex gap-5">
+            <div className="absolute bottom-3 left-5 flex gap-5">
               <a
                 href="https://github.com/dipongkorroy000/l2-project-006"
                 target="_blank"
@@ -123,7 +123,7 @@ export default function Projects() {
             />
 
             {/* Icons always visible at bottom-left */}
-            <div className="absolute bottom-3 left-5 flex gap-5">
+            <div className="absolute bottom-3 right-5 flex gap-5">
               <a href="https://github.com/dipongkorroy000/l1-project-012" target="_blank" rel="noopener noreferrer" className="transition-colors">
                 <Github className="text-black hover:text-chart-3" />
               </a>
