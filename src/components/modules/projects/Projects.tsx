@@ -37,7 +37,7 @@ export default function Projects() {
             {/* Icons always visible at bottom-left */}
             <div className="absolute bottom-3 right-5 flex gap-5">
               <a
-                href="https://github.com/dipongkorroy000/L2-Assignment-008-frontEnd-deploy"
+                href="https://github.com/dipongkorroy000/l2-project-008"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="transition-colors"
@@ -124,7 +124,7 @@ export default function Projects() {
 
             {/* Icons always visible at bottom-left */}
             <div className="absolute bottom-3 left-5 flex gap-5">
-              <a href="https://github.com/dipongkorroy000/project_012_client" target="_blank" rel="noopener noreferrer" className="transition-colors">
+              <a href="https://github.com/dipongkorroy000/l1-project-012" target="_blank" rel="noopener noreferrer" className="transition-colors">
                 <Github className="text-black hover:text-chart-3" />
               </a>
               <a href="https://project-012-client.vercel.app" target="_blank" rel="noopener noreferrer" className=" transition-colors">

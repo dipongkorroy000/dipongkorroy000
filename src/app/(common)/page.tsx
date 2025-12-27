@@ -3,7 +3,6 @@ import Hero from "@/src/components/modules/hero/Hero";
 import Projects from "@/src/components/modules/projects/Projects";
 import Technologies from "@/src/components/modules/technologies/Technologies";
 
-
 export default function Home() {
   return (
     <>
