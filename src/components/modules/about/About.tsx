@@ -3,7 +3,7 @@ import Image from "next/image";
 
 export default function About() {
   return (
-    <section className="py-20 max-md:py-10 max-w-5xl mx-auto text-foreground px-8 xl:px-14">
+    <section className="py-20 max-md:py-10 max-w-5xl mx-auto text-foreground px-8 xl:px-14 max-md:px-5">
       <h1 className="text-center text-2xl mb-5 font-bold max-md:text-xl max-md:text-start">1. About Me</h1>
       <div className="flex flex-col md:flex-row items-center gap-8">
         {/* Profile Image */}

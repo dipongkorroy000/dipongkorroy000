@@ -4,13 +4,13 @@ import Image from "next/image";
 export default function Projects() {
   return (
     <section className="py-20 max-md:py-10 max-w-5xl mx-auto text-foreground">
-      <h2 className="text-2xl font-bold text-center mb-10 max-md:mb-5 max-md:text-xl max-md:text-start px-8">3. Featured Projects</h2>
+      <h2 className="text-2xl font-bold text-center mb-10 max-md:mb-2 max-md:text-xl max-md:text-start px-8">3. Featured Projects</h2>
 
-      <div className="space-y-10 px-4">
+      <div className="space-y-10 px-4 max-md:space-y-5">
         {/* project 1 */}
         <div className="flex flex-col md:flex-row p-5 max-md:p-3 items-center md:space-x-6 space-y-6 md:space-y-0">
-          <div className="space-y-5 flex-1">
-            <h2 className="text-3xl max-md:text-2xl font-bold">3.1 Local Guide Platform</h2>
+          <div className="space-y-5 flex-1 max-md:space-y-2">
+            <h2 className="text-3xl max-md:text-xl font-bold">3.1 Local Guide Platform</h2>
             <p className="text-justify leading-relaxed tracking-wide max-md:text-sm">
               This project is a Local Guide Platform where anyone can create a guide account by fulfilling certain requirements. Tourists can then browse
               available guides and book them for their tours, making it easier to connect travelers with trusted local experts.
@@ -52,7 +52,7 @@ export default function Projects() {
         </div>
 
         {/* project 2 */}
-        <div className="flex flex-col-reverse md:flex-row p-5 items-center md:space-x-6 space-y-2 md:space-y-0">
+        <div className="flex flex-col-reverse md:flex-row p-5 max-md:p-3 items-center md:space-x-6 space-y-2 md:space-y-0">
           <div className="relative flex-1 max-md:mt-5">
             <Image
               src="https://i.ibb.co.com/h1ymJjZ0/Screenshot-from-2025-12-22-14-04-22.png"
@@ -78,8 +78,8 @@ export default function Projects() {
             </div>
           </div>
 
-          <div className="space-y-5 flex-1">
-            <h2 className="text-3xl max-md:text-2xl font-bold">3.2 Parcel Delivery Web Application</h2>
+          <div className="space-y-5 flex-1 max-md:space-y-2">
+            <h2 className="text-3xl max-md:text-xl font-bold">3.2 Parcel Delivery Web Application</h2>
             <p className="text-justify leading-relaxed tracking-wide max-md:text-sm">
               This project is a Parcel Delivery Application where users can create accounts to send and receive parcels. Delivery agents must meet certain
               requirements to register, and customers can book them for secure and timely deliveries. The system manages parcel tracking, pickup requests, and
@@ -97,9 +97,9 @@ export default function Projects() {
         </div>
 
         {/* project 3 */}
-        <div className="flex flex-col md:flex-row p-5 items-center md:space-x-6 space-y-6 md:space-y-0">
-          <div className="space-y-5 flex-1">
-            <h2 className="text-3xl max-md:text-2xl font-bold">3.3 TaskNet Web Application</h2>
+        <div className="flex flex-col md:flex-row p-5 max-md:p-3 items-center md:space-x-6 space-y-6 md:space-y-0">
+          <div className="space-y-5 flex-1 max-md:space-y-2">
+            <h2 className="text-3xl max-md:text-xl font-bold">3.3 TaskNet Web Application</h2>
             <p className="text-justify leading-relaxed tracking-wide max-md:text-sm">
               Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime dicta itaque eos, suscipit doloremque cumque necessitatibus ex consequuntur modi,
               voluptates reiciendis deserunt inventore temporibus libero dolorem architecto. Pariatur, nobis libero?

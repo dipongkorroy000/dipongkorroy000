@@ -7,9 +7,9 @@ import {Github, Linkedin, Mail} from "lucide-react";
 const Hero = () => {
   return (
     <section className="mt-28 max-md:mt-20">
-      <div className="text-center space-y-4">
-        <h2 className="text-md font-mono uppercase tracking-widest bg-clip-text">Full Stack Developer</h2>
-        <h1 className="text-4xl max-md:text-2xl font-bold">Hello, I&apos;m Dipongkor Roy</h1>
+      <div className="text-center space-y-4 max-md:px-5">
+        <h2 className="text-md font-mono uppercase tracking-widest bg-clip-text max-md:text-sm">Full Stack Developer</h2>
+        <h1 className="text-4xl max-md:text-xl font-bold">Hello, I&apos;m <span className="text-chart-3">Dipongkor Roy</span></h1>
         <p className="max-w-xl max-md:text-sm mx-auto text-muted-foreground">
           I build modern web applications with React, Node.js, and TypeScript. Passionate about creating efficient, scalable, and user-friendly solutions.
         </p>
@@ -17,24 +17,24 @@ const Hero = () => {
         <div className="flex gap-4 justify-center mt-6">
           <Button
             onClick={() => smoothScrollTo("projects")}
-            className="bg-chart-3 hover:bg-primary transition-colors duration-500 ease-in-out cursor-pointer hover:scale-95"
+            className="bg-chart-3 hover:bg-primary transition-colors duration-500 ease-in-out cursor-pointer hover:scale-95 max-md:px-2 max-md:text-sm"
           >
             View My Work
           </Button>
-          <span onClick={() => smoothScrollTo("about")} className="bg-none border-none cursor-pointer my-auto">
+          <span onClick={() => smoothScrollTo("about")} className="bg-none border-none cursor-pointer my-auto max-md:text-sm">
             About Me
           </span>
         </div>
 
         <div className="flex gap-6 justify-center mt-8">
           <a href="https://github.com/dipongkorroy000" target="_blank" rel="noopener noreferrer">
-            <Github className="w-6 h-6 hover:text-primary" />
+            <Github className="w-6 h-6 hover:text-primary max-md:h-5" />
           </a>
           <a href="https://linkedin.com/in/dipongkor" target="_blank" rel="noopener noreferrer">
-            <Linkedin className="w-6 h-6 hover:text-primary" />
+            <Linkedin className="w-6 h-6 hover:text-primary max-md:h-5" />
           </a>
           <a href="mailto:dipongkorroy000@gmail.com" target="_blank">
-            <Mail className="w-6 h-6 hover:text-primary" />
+            <Mail className="w-6 h-6 hover:text-primary max-md:h-5" />
           </a>
         </div>
 
