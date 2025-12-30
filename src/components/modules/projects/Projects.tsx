@@ -91,8 +91,8 @@ export default function Projects() {
           <div className="space-y-5 flex-1 max-md:space-y-2">
             <h2 className="text-3xl max-md:text-xl font-bold">3.3 TaskNet Web Application</h2>
             <p className="text-justify leading-relaxed tracking-wide max-md:text-sm">
-              Here’s a very short and clear description you can use: **Project Description:** A freelancing-style web app built with Node.js, Firebase, Stripe,
-              and MongoDB. Supports three roles — Admin, Buyer, and Worker — with secure authentication, task management, and payment integration.
+              A freelancing-style web app built with Node.js, Firebase, Stripe, and MongoDB. Supports three roles — Admin, Buyer, and Worker — with secure
+              authentication, task management, and payment integration.
             </p>
             <div className="flex flex-wrap gap-3">
               {["React", "Firebase", "Node.js", "MongoDB", "Stripe"].map((tech) => (
