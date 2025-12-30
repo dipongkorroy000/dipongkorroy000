@@ -36,12 +36,7 @@ export default function Projects() {
 
             {/* Icons always visible at bottom-left */}
             <div className="absolute bottom-3 right-5 flex gap-5">
-              <a
-                href="https://github.com/dipongkorroy000/l2-project-008"
-                target="_blank"
-                rel="noopener noreferrer"
-                className="transition-colors"
-              >
+              <a href="https://github.com/dipongkorroy000/l2-project-008" target="_blank" rel="noopener noreferrer" className="transition-colors">
                 <Github className="text-black hover:text-chart-3" />
               </a>
               <a href="https://l2-assignment-008-frontend-577l.vercel.app" target="_blank" rel="noopener noreferrer" className=" transition-colors">
@@ -64,12 +59,7 @@ export default function Projects() {
 
             {/* Icons always visible at bottom-left */}
             <div className="absolute bottom-3 left-5 flex gap-5">
-              <a
-                href="https://github.com/dipongkorroy000/l2-project-006"
-                target="_blank"
-                rel="noopener noreferrer"
-                className="transition-colors"
-              >
+              <a href="https://github.com/dipongkorroy000/l2-project-006" target="_blank" rel="noopener noreferrer" className="transition-colors">
                 <Github className="text-black hover:text-chart-3" />
               </a>
               <a href="https://l2-assignment-006.vercel.app/" target="_blank" rel="noopener noreferrer" className=" transition-colors">
@@ -101,11 +91,11 @@ export default function Projects() {
           <div className="space-y-5 flex-1 max-md:space-y-2">
             <h2 className="text-3xl max-md:text-xl font-bold">3.3 TaskNet Web Application</h2>
             <p className="text-justify leading-relaxed tracking-wide max-md:text-sm">
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime dicta itaque eos, suscipit doloremque cumque necessitatibus ex consequuntur modi,
-              voluptates reiciendis deserunt inventore temporibus libero dolorem architecto. Pariatur, nobis libero?
+              Here’s a very short and clear description you can use: **Project Description:** A freelancing-style web app built with Node.js, Firebase, Stripe,
+              and MongoDB. Supports three roles — Admin, Buyer, and Worker — with secure authentication, task management, and payment integration.
             </p>
             <div className="flex flex-wrap gap-3">
-              {["React", "Firebase", "Express", "MongoDB", "Stripe"].map((tech) => (
+              {["React", "Firebase", "Node.js", "MongoDB", "Stripe"].map((tech) => (
                 <span key={tech} className="text-sm font-medium text-primary">
                   {tech}
                 </span>
