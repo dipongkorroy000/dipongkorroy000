@@ -166,6 +166,9 @@
   --sidebar-accent-foreground: oklch(0.98 0.01 220);
   --sidebar-border: oklch(0.85 0.02 220);
   --sidebar-ring: oklch(0.45 0.02 220);
+
+  --bg-color: oklch(0.18 0.05 220);
+  --dot-color: oklch(0.28 0.05 220);
 }
 
 .dark {
@@ -252,3 +255,29 @@
 html {
   scroll-behavior: smooth;
 } */
+
+/* globals.css */
+
+/* .bg-dot-pattern {
+  background-image: radial-gradient(oklch(0.28 0.05 220) 1px, transparent 1px);
+  background-size: 20px 20px;
+} */
+
+.bg-dot-pattern {
+  background-color: var(--bg-color);
+  background-image: radial-gradient(var(--dot-color) 1px, transparent 1px);
+  background-size: 20px 20px; /* Animation */
+  animation: dotShift 6s infinite alternate ease-in-out;
+}
+/* Keyframes for subtle movement */
+@keyframes dotShift {
+  0% {
+    background-position: 0 0;
+  }
+  50% {
+    background-position: 10px 10px; /* slight shift */
+  }
+  100% {
+    background-position: -10px -10px;
+  }
+}

@@ -6,7 +6,7 @@ import {Github, Linkedin, Mail} from "lucide-react";
 
 const Hero = () => {
   return (
-    <section className="mt-28 max-md:mt-20">
+    <section className="pt-28 max-md:pt-20">
       <div className="text-center space-y-4 max-md:px-5">
         <h2 className="text-md font-mono uppercase tracking-widest bg-clip-text max-md:text-sm">Full Stack Developer</h2>
         <h1 className="text-4xl max-md:text-xl font-bold">Hello, I&apos;m <span className="text-chart-3">Dipongkor Roy</span></h1>

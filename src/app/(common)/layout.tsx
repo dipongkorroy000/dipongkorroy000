@@ -5,7 +5,7 @@ import React from "react";
 
 const CommonLayout = ({ children }: { children: React.ReactNode }) => {
   return (
-    <div>
+    <div className="bg-dot-pattern">
       <Navbar></Navbar>
       <main>{children}</main>
       <Footer></Footer>
