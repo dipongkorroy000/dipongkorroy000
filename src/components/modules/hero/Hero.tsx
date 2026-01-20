@@ -16,10 +16,10 @@ const Hero = () => {
 
         <div className="flex gap-4 justify-center mt-6">
           <Button
-            onClick={() => smoothScrollTo("projects")}
+            onClick={() => smoothScrollTo("contact")}
             className="bg-chart-3 hover:bg-primary transition-colors duration-500 ease-in-out cursor-pointer hover:scale-95 max-md:px-2 max-md:text-sm"
           >
-            View My Work
+            Contact Me
           </Button>
           <span onClick={() => smoothScrollTo("about")} className="bg-none border-none cursor-pointer my-auto max-md:text-sm">
             About Me
