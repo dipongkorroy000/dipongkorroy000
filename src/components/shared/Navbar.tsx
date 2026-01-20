@@ -27,7 +27,7 @@ export default function Navbar() {
 
   return (
     <header className={`sticky top-0 z-50 w-full transition-transform duration-500 ${showNavbar ? "translate-y-0" : "-translate-y-full"}`}>
-      <div className="relative mx-auto max-w-5xl rounded-2xl py-2 backdrop-blur-sm bg-clip-border shadow-sm max-md:px-3">
+      <div className="relative mx-auto max-w-5xl rounded-2xl py-2 backdrop-blur-sm bg-clip-border shadow-sm md:px-5 max-md:px-3">
         {/* Watermark-style background text */}
         <div className="absolute inset-0 flex items-center justify-center opacity-5 pointer-events-none select-none mt-2">
           <span className="text-4xl max-md:-ml-32 max-md:text-xl font-extrabold">PORTFOLIO</span>

@@ -20,7 +20,7 @@ const Hero = () => {
         <div className="flex gap-4 justify-center mt-6">
           <Button
             onClick={() => smoothScrollTo("contact")}
-            className="bg-chart-3 hover:bg-primary transition-colors duration-500 ease-in-out cursor-pointer hover:scale-95 max-md:px-2 max-md:text-sm"
+            className="bg-chart-3 hover:bg-chart-4 text-white transition-colors duration-500 ease-in-out cursor-pointer hover:scale-95 max-md:px-2 max-md:text-sm"
           >
             Contact Me
           </Button>
