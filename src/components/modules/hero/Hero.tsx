@@ -3,7 +3,6 @@
 import {Button} from "../../ui/button";
 import smoothScrollTo from "../../smooth-scroll";
 import {ArrowDownToLine, Github, Linkedin, Mail} from "lucide-react";
-import {FaDownload} from "react-icons/fa";
 
 const Hero = () => {
   return (
@@ -25,7 +24,7 @@ const Hero = () => {
             Contact Me
           </Button>
           <a
-            href="https://drive.google.com/uc?export=download&id=1-xvzfRMx48-0jGEHXx5BhWJKCXqv5pqW"
+            href="https://drive.google.com/uc?export=download&id=1g1cGeEODMAVxtpwdLaxbqDMczuEIJheX"
             className="flex gap-1 items-center bg-none border-none cursor-pointer my-auto max-md:text-sm"
           >
             <ArrowDownToLine size={20} />
