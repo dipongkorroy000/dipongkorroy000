@@ -24,7 +24,7 @@ const Hero = () => {
             Contact Me
           </Button>
           <a
-            href="https://drive.google.com/uc?export=download&id=1T7KgQDC89vawyy7cLkucgq1vvW3jfaGX"
+            href="https://drive.google.com/uc?export=download&id=1AFy7jyAEHWQ_eprQefOUnknTAskQKDr0"
             className="flex gap-1 items-center bg-none border-none cursor-pointer my-auto max-md:text-sm"
           >
             <ArrowDownToLine size={20} />
