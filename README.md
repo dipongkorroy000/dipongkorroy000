@@ -27,7 +27,6 @@
 </p>
 
 
-<h3 align="">🛠 Technologies I Work With</h3>
 
 <!-- <div align="">
 
@@ -62,6 +61,7 @@
 
 <div>
   
+<h3 align="">🛠 Technologies I Work With</h3>
 Languages
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,c,cpp,python" height="45" />
 Frameworks & Libraries
