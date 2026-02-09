@@ -49,10 +49,10 @@
 </div>
 
 ---
-<div>
-<div align="center" width="80%">
+
+<div align="center">
 <h3 align="" class="border">🛠️ Technologies I Work With</h3>
-<p align="left">
+<p align="left" width="80%">
   <strong>Languages</strong><br>
   <div style="display: flex; gap: 10px; margin-top: 5px;">
     <img src="https://skillicons.dev/icons?i=html" height="45" title="HTML5" alt="HTML5" />
@@ -98,7 +98,6 @@
     <img src="https://skillicons.dev/icons?i=docker" height="45" title="Docker" alt="Docker" />
   </div>
 </p>
-</div>
 </div>
 ---
 
