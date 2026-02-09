@@ -49,7 +49,7 @@
 </div>
 
 ---
-
+<div>
 <div align="center" width="80%">
 <h3 align="" class="border">🛠️ Technologies I Work With</h3>
 <p align="left">
@@ -99,7 +99,7 @@
   </div>
 </p>
 </div>
-
+</div>
 ---
 
 <h3 align="center">🌐 Connect With Me</h3>
