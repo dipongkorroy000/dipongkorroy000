@@ -1,6 +1,12 @@
 <h1 align="">👨‍💻 Hi, I'm Dipongkor Roy</h1>
 <h3 align="">Web Developer | Problem Solver | Tech Enthusiast</h3>
 
+<div align="">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=007ACC&center=true&vCenter=true&random=false&width=435&height=45&duration=4000&lines=Hi+%F0%9F%91%8B+I'm+Dipongkor+Roy;Full-Stack+Web+Developer+%7C+Problem+Solver+%7C+Tech+Enthusiast" alt="Typing SVG" />
+
+</div>
+
 ---
 
 <p align="">
@@ -11,12 +17,6 @@
   💻 Currently Learning <b>C++</b> for DSA & <b>Python</b> for OOP <br>
 </p>
 
-<div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=007ACC&center=true&vCenter=true&random=false&width=435&height=45&duration=4000&lines=Hi+%F0%9F%91%8B+I'm+Dipongkor+Roy;Full-Stack+Web+Developer+%7C+Problem+Solver+%7C+Tech+Enthusiast" alt="Typing SVG" />
-
-</div>
----
 
 <h3 align="">🛠 Technologies I Work With</h3>
 
