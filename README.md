@@ -29,8 +29,8 @@
 
 <h3 align="">🛠 Technologies I Work With</h3>
 
-<div align="">
-  <!-- Frontend -->
+<!-- <div align="">
+
 <h4 align="">Programming languages</h4>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
@@ -38,7 +38,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
     <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c.png" height="40" alt="C" />
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c++.png" height="40" alt="CPP" />
-   <!-- <img src="" height="40" alt="CPP" /> -->
+  
 <h4 align="">Library/Frameworks & Technologies</h4>
   <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="TailwindCSS" />
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" height="40" alt="Firebase" />
@@ -58,7 +58,16 @@
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="40" alt="Git" />
   <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" height="40" alt="Docker" />
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/linux.png" height="40" alt="Git" />
-</div>
+</div> -->
+
+Languages
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,c,cpp,python" height="45" />
+Frameworks & Libraries
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,redux" height="45" />
+Databases & ORM
+<img src="https://skillicons.dev/icons?i=mongodb,postgresql,prisma,firebase" height="45" />
+Tools & DevOps
+<img src="https://skillicons.dev/icons?i=git,docker,postman,linux,vscode,figma" height="45" />
 
 ---
 
