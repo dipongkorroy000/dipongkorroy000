@@ -82,7 +82,7 @@
   <a href="mailto:dipongkorroy000@gmail.com"><img src="https://img.shields.io/badge/email-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/dipongkor"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://x.com/dipongkorroy000"><img src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  [![Portfolio](https://img.shields.io/badge/-Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://dipongkorroy000.vercel.app)
+    <a href="https://dipongkorroy000.vercel.app"><img src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 </div> 
 
 
