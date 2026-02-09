@@ -49,7 +49,7 @@
 </div>
 
 <div align="center">
-<h3 align="">🛠️ Technologies I Work With</h3>
+<h3 align="" class="border">🛠️ Technologies I Work With</h3>
 
 <p align="">
   <strong>Languages</strong><br>
@@ -106,7 +106,7 @@
 
 <h3 align="center">🌐 Connect With Me</h3>
 
-<div align="">
+<div align="center">
   <a href="mailto:dipongkorroy000@gmail.com"><img src="https://img.shields.io/badge/email-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/dipongkor"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://x.com/dipongkorroy000"><img src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/></a>
