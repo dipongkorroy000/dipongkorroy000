@@ -22,6 +22,209 @@
   💻 Currently Learning <b>C++</b> for DSA & <b>Python</b> for OOP <br>
 </p>
 
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <table>
+        <tr><td>🔭 <b>Currently Building</b></td></tr>
+        <tr><td>Scalable E-commerce Platform</td></tr>
+        <tr><td><br></td></tr>
+        
+        <tr><td>📚 <b>Exploring</b></td></tr>
+        <tr><td>Advanced Next.js Patterns & PostgreSQL</td></tr>
+        <tr><td><br></td></tr>
+        
+        <tr><td>⚡ <b>Passionate About</b></td></tr>
+        <tr><td>Open Source & Tech Blogging</td></tr>
+      </table>
+    </td>
+    <td width="50%" valign="top">
+      <table>
+        <tr><td>🌱 <b>Growing In</b></td></tr>
+        <tr><td>Next.js Ecosystem</td></tr>
+        <tr><td><br></td></tr>
+        
+        <tr><td>💻 <b>Currently Learning</b></td></tr>
+        <tr><td>C++ for DSA & Python for OOP</td></tr>
+        <tr><td><br></td></tr>
+        
+        <tr><td>🎯 <b>Focus Areas</b></td></tr>
+        <tr><td>System Design & Performance Optimization</td></tr>
+      </table>
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+<table style="border-collapse: collapse; width: 100%; max-width: 800px;">
+  <tr style="background: linear-gradient(90deg, #0d1117 0%, #161b22 100%);">
+    <td style="padding: 20px; border: 1px solid #30363d; border-radius: 8px;">
+      <table style="width: 100%;">
+        <tr>
+          <td style="padding: 10px; text-align: left; vertical-align: top; width: 50%;">
+            <p>🚀 <strong>Currently Building</strong><br>
+            <span style="color: #8b949e;">Scalable E-commerce Platform</span></p>
+            
+            <p>📚 <strong>Exploring</strong><br>
+            <span style="color: #8b949e;">Advanced Next.js & PostgreSQL</span></p>
+            
+            <p>⚡ <strong>Passionate About</strong><br>
+            <span style="color: #8b949e;">Open Source & Tech Blogging</span></p>
+          </td>
+          
+          <td style="padding: 10px; text-align: left; vertical-align: top; width: 50%;">
+            <p>🌱 <strong>Growing In</strong><br>
+            <span style="color: #8b949e;">Next.js Ecosystem</span></p>
+            
+            <p>💻 <strong>Currently Learning</strong><br>
+            <span style="color: #8b949e;">C++ (DSA) & Python (OOP)</span></p>
+            
+            <p>🎯 <strong>Future Goals</strong><br>
+            <span style="color: #8b949e;">Microservices & Cloud Architecture</span></p>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+</div>
+
+<div align="center">
+<table style="border: none; border-collapse: collapse; width: 100%; max-width: 700px;">
+  <tr>
+    <td style="padding: 0; border: none;">
+      <table style="width: 100%; border-spacing: 10px;">
+        <tr>
+          <td style="background-color: #0d1117; padding: 15px; border-radius: 8px; border: 1px solid #30363d;">
+            <strong>🔭 Building</strong><br>
+            <small>Scalable E-commerce Platform</small>
+          </td>
+          <td style="background-color: #0d1117; padding: 15px; border-radius: 8px; border: 1px solid #30363d;">
+            <strong>📚 Exploring</strong><br>
+            <small>Next.js & PostgreSQL</small>
+          </td>
+        </tr>
+        <tr>
+          <td style="background-color: #0d1117; padding: 15px; border-radius: 8px; border: 1px solid #30363d;">
+            <strong>⚡ Passionate</strong><br>
+            <small>Open Source & Blogging</small>
+          </td>
+          <td style="background-color: #0d1117; padding: 15px; border-radius: 8px; border: 1px solid #30363d;">
+            <strong>🌱 Growing In</strong><br>
+            <small>Next.js Ecosystem</small>
+          </td>
+        </tr>
+        <tr>
+          <td colspan="2" style="background-color: #0d1117; padding: 15px; border-radius: 8px; border: 1px solid #30363d; text-align: center;">
+            <strong>💻 Currently Learning</strong><br>
+            <small>C++ for DSA & Python for OOP</small>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+</div>
+
+<div align="center">
+<table style="width: 100%; max-width: 800px; border-collapse: collapse;">
+  <tr>
+    <td style="padding: 15px 20px; border-left: 3px solid #238636;">
+      <strong style="color: #238636;">🔭 Current Focus</strong><br>
+      Building scalable E-commerce Platform with modern stack
+    </td>
+  </tr>
+  <tr>
+    <td style="padding: 15px 20px; border-left: 3px solid #1f6feb;">
+      <strong style="color: #1f6feb;">📚 Skill Development</strong><br>
+      Advanced Next.js patterns & PostgreSQL optimization
+    </td>
+  </tr>
+  <tr>
+    <td style="padding: 15px 20px; border-left: 3px solid #e3b341;">
+      <strong style="color: #e3b341;">🌱 Growth Areas</strong><br>
+      Expanding expertise in Next.js ecosystem
+    </td>
+  </tr>
+  <tr>
+    <td style="padding: 15px 20px; border-left: 3px solid #db6d28;">
+      <strong style="color: #db6d28;">💻 Learning Journey</strong><br>
+      C++ for Data Structures & Algorithms | Python for Object-Oriented Programming
+    </td>
+  </tr>
+  <tr>
+    <td style="padding: 15px 20px; border-left: 3px solid #8957e5;">
+      <strong style="color: #8957e5;">⚡ Passion Projects</strong><br>
+      Open Source contributions & Technical Blogging
+    </td>
+  </tr>
+</table>
+</div>
+
+<div align="center">
+<table style="width: 100%; max-width: 900px; border-collapse: separate; border-spacing: 0 10px;">
+  <tr>
+    <td colspan="3" style="text-align: center; padding-bottom: 15px;">
+      <h3 style="margin: 0; color: #f0f6fc;">🚀 Current Journey & Focus</h3>
+    </td>
+  </tr>
+  
+  <tr>
+    <td style="background: linear-gradient(135deg, #0d1117 0%, #161b22 100%); 
+                padding: 20px; 
+                border-radius: 10px; 
+                border: 1px solid #30363d;
+                width: 33%;">
+      <div style="font-size: 24px; color: #58a6ff;">🔭</div>
+      <div style="font-weight: bold; color: #f0f6fc; margin: 8px 0;">Building</div>
+      <div style="color: #8b949e; font-size: 14px;">Scalable E-commerce Platform</div>
+    </td>
+    
+    <td style="background: linear-gradient(135deg, #0d1117 0%, #161b22 100%); 
+                padding: 20px; 
+                border-radius: 10px; 
+                border: 1px solid #30363d;
+                width: 33%;">
+      <div style="font-size: 24px; color: #58a6ff;">📚</div>
+      <div style="font-weight: bold; color: #f0f6fc; margin: 8px 0;">Exploring</div>
+      <div style="color: #8b949e; font-size: 14px;">Next.js Patterns & PostgreSQL</div>
+    </td>
+    
+    <td style="background: linear-gradient(135deg, #0d1117 0%, #161b22 100%); 
+                padding: 20px; 
+                border-radius: 10px; 
+                border: 1px solid #30363d;
+                width: 33%;">
+      <div style="font-size: 24px; color: #58a6ff;">⚡</div>
+      <div style="font-weight: bold; color: #f0f6fc; margin: 8px 0;">Passionate</div>
+      <div style="color: #8b949e; font-size: 14px;">Open Source & Tech Blogging</div>
+    </td>
+  </tr>
+  
+  <tr>
+    <td style="background: linear-gradient(135deg, #0d1117 0%, #161b22 100%); 
+                padding: 20px; 
+                border-radius: 10px; 
+                border: 1px solid #30363d;
+                width: 50%;">
+      <div style="font-size: 24px; color: #58a6ff;">🌱</div>
+      <div style="font-weight: bold; color: #f0f6fc; margin: 8px 0;">Growing In</div>
+      <div style="color: #8b949e; font-size: 14px;">Next.js Ecosystem</div>
+    </td>
+    
+    <td colspan="2" style="background: linear-gradient(135deg, #0d1117 0%, #161b22 100%); 
+                padding: 20px; 
+                border-radius: 10px; 
+                border: 1px solid #30363d;
+                width: 50%;">
+      <div style="font-size: 24px; color: #58a6ff;">💻</div>
+      <div style="font-weight: bold; color: #f0f6fc; margin: 8px 0;">Currently Learning</div>
+      <div style="color: #8b949e; font-size: 14px;">C++ (DSA) & Python (OOP)</div>
+    </td>
+  </tr>
+</table>
+</div>
+
 <div align="left">
 <h3 align="">🛠️ Technologies I Work With</h3>
 
