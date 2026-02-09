@@ -66,6 +66,7 @@
   <strong>Databases & ORM</strong><br>
  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,prisma,firebase" height="45" />
 <img src="https://jwt.io/img/pic_logo.svg" height="45" alt="JWT" style="background:white; padding:5px; border-radius:5px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongoose/mongoose-original.svg" height="45" alt="Mongoose" />
 </p>
 <p align="left">
   <strong>Tools & DevOps</strong><br>
