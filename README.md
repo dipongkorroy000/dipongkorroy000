@@ -10,17 +10,7 @@
 </div> -->
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=800&height=45&duration=4000&lines=Hi+%F0%9F%91%8B+I'm+Dipongkor+Roy;Full-Stack+Web+Developer+%7C+Problem+Solver+%7C+Tech+Enthusiast" alt="Typing SVG" />
-
-
 ---
-
-<p align="">
-  🔭 Building a scalable <b>Tourism Platform</b> <br>
-  📚 Exploring advanced <b>Next.js patterns</b> & <b>PostgreSQL</b> <br>
-  ⚡ Passionate about <b>Open Source</b> & <b>Tech Blogging</b> <br>
-  🌱 Continuously growing in the <b>Next.js ecosystem</b> <br>
-  💻 Currently Learning <b>C++</b> for DSA & <b>Python</b> for OOP <br>
-</p>
 
 <div align="center">
 <table style="border-collapse: collapse; width: 100%; max-width: 800px;">
