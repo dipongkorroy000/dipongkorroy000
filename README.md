@@ -64,7 +64,7 @@
 </p>
 <p align="left">
   <strong>Databases & ORM</strong><br>
-  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,prisma,firebase,jwt" height="45" />
+  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,prisma,firebase,jsonwebtoken" height="45" />
 </p>
 <p align="left">
   <strong>Tools & DevOps</strong><br>
