@@ -64,7 +64,7 @@
 
 ---
 
-<h3 align="">🌐 Connect With Me</h3>
+<!-- <h3 align="">🌐 Connect With Me</h3> -->
 
 <!-- <div align="">
   <a href="mailto:dipongkorroy000@gmail.com"><img src="https://img.shields.io/badge/email-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>
