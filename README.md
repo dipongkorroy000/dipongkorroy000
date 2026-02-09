@@ -53,7 +53,7 @@
 <div align="center">
 <h3 align="" class="border">🛠️ Technologies I Work With</h3>
 
-<p align="">
+<p align="left">
   <strong>Languages</strong><br>
   <div style="display: flex; gap: 10px; margin-top: 5px;">
     <img src="https://skillicons.dev/icons?i=html" height="45" title="HTML5" alt="HTML5" />
@@ -65,7 +65,7 @@
   </div>
 </p>
 
-<p align="">
+<p align="left">
   <strong>Frameworks & Libraries</strong><br>
   <div style="display: flex; gap: 10px; margin-top: 5px;">
     <img src="https://skillicons.dev/icons?i=react" height="45" title="React" alt="React" />
