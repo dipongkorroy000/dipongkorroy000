@@ -22,39 +22,6 @@
   💻 Currently Learning <b>C++</b> for DSA & <b>Python</b> for OOP <br>
 </p>
 
-<table align="center" width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <table>
-        <tr><td>🔭 <b>Currently Building</b></td></tr>
-        <tr><td>Scalable E-commerce Platform</td></tr>
-        <tr><td><br></td></tr>
-        
-        <tr><td>📚 <b>Exploring</b></td></tr>
-        <tr><td>Advanced Next.js Patterns & PostgreSQL</td></tr>
-        <tr><td><br></td></tr>
-        
-        <tr><td>⚡ <b>Passionate About</b></td></tr>
-        <tr><td>Open Source & Tech Blogging</td></tr>
-      </table>
-    </td>
-    <td width="50%" valign="top">
-      <table>
-        <tr><td>🌱 <b>Growing In</b></td></tr>
-        <tr><td>Next.js Ecosystem</td></tr>
-        <tr><td><br></td></tr>
-        
-        <tr><td>💻 <b>Currently Learning</b></td></tr>
-        <tr><td>C++ for DSA & Python for OOP</td></tr>
-        <tr><td><br></td></tr>
-        
-        <tr><td>🎯 <b>Focus Areas</b></td></tr>
-        <tr><td>System Design & Performance Optimization</td></tr>
-      </table>
-    </td>
-  </tr>
-</table>
-
 <div align="center">
 <table style="border-collapse: collapse; width: 100%; max-width: 800px;">
   <tr style="background: linear-gradient(90deg, #0d1117 0%, #161b22 100%);">
