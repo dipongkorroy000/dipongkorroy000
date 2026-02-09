@@ -50,7 +50,7 @@
 
 ---
 
-<div align="center">
+<div align="center" width="80%">
 <h3 align="" class="border">🛠️ Technologies I Work With</h3>
 <p align="left">
   <strong>Languages</strong><br>
