@@ -1,6 +1,6 @@
 <div align="center">
   
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:00adb5,50:393e46,100:222831&height=200&section=header&text=Dipongkor%20Roy&fontSize=60&fontColor=eeeeee&animation=fadeIn&fontAlignY=40&desc=Full-Stack%20Developer%20%7C%20Problem%20Solver%20%7C%20Tech%20Enthusiast&descAlignY=65&descSize=20)
+
 
 ![Header](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=800&height=45&duration=4000&lines=Hi+%F0%9F%91%8B+I'm+Dipongkor+Roy;Full-Stack+Web+Developer+%7C+Problem+Solver+%7C+Tech+Enthusiast)
 
@@ -13,6 +13,7 @@
 </div>
 
 <!-- <div align="">
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:00adb5,50:393e46,100:222831&height=200&section=header&text=Dipongkor%20Roy&fontSize=60&fontColor=eeeeee&animation=fadeIn&fontAlignY=40&desc=Full-Stack%20Developer%20%7C%20Problem%20Solver%20%7C%20Tech%20Enthusiast&descAlignY=65&descSize=20)
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=800&height=45&duration=4000&lines=Hi+%F0%9F%91%8B+I'm+Dipongkor+Roy;Full-Stack+Web+Developer+%7C+Problem+Solver+%7C+Tech+Enthusiast" alt="Typing SVG" />
 
