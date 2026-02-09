@@ -27,7 +27,7 @@
 
 <p align="left">
   <strong>Languages</strong><br>
-  <div style="display: flex; gap: 16px; margin-top: 10px;">
+  <div style="display: flex; gap: 10px; margin-top: 5px;">
     <img src="https://skillicons.dev/icons?i=html" height="45" title="HTML5" alt="HTML5" />
     <img src="https://skillicons.dev/icons?i=css" height="45" title="CSS3" alt="CSS3" />
     <img src="https://skillicons.dev/icons?i=js" height="45" title="JavaScript" alt="JavaScript" />
@@ -39,7 +39,7 @@
 
 <p align="left">
   <strong>Frameworks & Libraries</strong><br>
-  <div style="display: flex; gap: 16px; margin-top: 10px;">
+  <div style="display: flex; gap: 10px; margin-top: 5px;">
     <img src="https://skillicons.dev/icons?i=react" height="45" title="React" alt="React" />
     <img src="https://skillicons.dev/icons?i=nextjs" height="45" title="Next.js" alt="Next.js" />
     <img src="https://skillicons.dev/icons?i=nodejs" height="45" title="Node.js" alt="Node.js" />
@@ -52,7 +52,7 @@
 
 <p align="left">
   <strong>Databases & ORM</strong><br>
-  <div style="display: flex; gap: 16px; margin-top: 10px; flex-wrap: wrap;">
+  <div style="display: flex; gap: 10px; margin-top: 5px; flex-wrap: wrap;">
     <img src="https://skillicons.dev/icons?i=mongodb" height="45" title="MongoDB" alt="MongoDB" />
     <img src="https://skillicons.dev/icons?i=postgresql" height="45" title="PostgreSQL" alt="PostgreSQL" />
     <img src="https://skillicons.dev/icons?i=prisma" height="45" title="Prisma" alt="Prisma" />
@@ -65,7 +65,7 @@
 
 <p align="left">
   <strong>Tools & DevOps</strong><br>
-  <div style="display: flex; gap: 16px; margin-top: 10px; flex-wrap: wrap;">
+  <div style="display: flex; gap: 10px; margin-top: 5px; flex-wrap: wrap;">
     <img src="https://skillicons.dev/icons?i=figma" height="45" title="Figma" alt="Figma" />
     <img src="https://skillicons.dev/icons?i=git" height="45" title="Git" alt="Git" />
     <img src="https://skillicons.dev/icons?i=vscode" height="45" title="VS Code" alt="VS Code" />
