@@ -57,7 +57,7 @@
 
 <p align="left">
   <strong>Languages</strong><br>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,c,cpp,python" height="45" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,c,cpp" height="45" />
 </p>
 <p align="left">
   <strong>Frameworks & Libraries</strong><br>
@@ -69,7 +69,7 @@
 </p>
 <p align="left">
   <strong>Tools & DevOps</strong><br>
-  <img src="https://skillicons.dev/icons?i=git,docker,postman,linux,vscode,figma" height="45" />
+  <img src="https://skillicons.dev/icons?i=figma,git,vscode,postman,linux,docker" height="45" />
 </p>
 
 </div>
