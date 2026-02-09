@@ -52,7 +52,6 @@
 </div> -->
 
 <div align="left">
-
 <h3 align="">🛠️ Technologies I Work With</h3>
 
 <p align="left">
@@ -71,7 +70,6 @@
   <strong>Tools & DevOps</strong><br>
   <img src="https://skillicons.dev/icons?i=figma,git,vscode,postman,linux,docker" height="45" />
 </p>
-
 </div>
 
 ---
@@ -82,10 +80,8 @@
   <a href="mailto:dipongkorroy000@gmail.com"><img src="https://img.shields.io/badge/email-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/dipongkor"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://x.com/dipongkorroy000"><img src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="https://dipongkorroy000.vercel.app"><img src="https://img.shields.io/badge/-Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
-</div> 
-
-
+  <!-- <a href="https://dipongkorroy000.vercel.app"><img src="https://img.shields.io/badge/-Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white"/></a> -->
+</div>
 
 <p align="">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
