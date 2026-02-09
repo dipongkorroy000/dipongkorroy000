@@ -1,11 +1,11 @@
-<div align="center">
+<!-- <div align="center">
   
-[![Header](https://capsule-render.vercel.app/api?type=waving&color=0:00adb5,50:393e46,100:222831&height=200&section=header&text=Dipongkor%20Roy&fontSize=60&fontColor=eeeeee&animation=fadeIn&fontAlignY=40&desc=Full-Stack%20Developer%20%7C%20Problem%20Solver%20%7C%20Tech%20Enthusiast&descAlignY=65&descSize=20)](https://readme-typing-svg.herokuapp.comfont=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=800&height=45&duration=4000&lines=Hi+%F0%9F%91%8B+I'm+Dipongkor+Roy;Full-Stack+Web+Developer+%7C+Problem+Solver+%7C+Tech+Enthusiast)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:00adb5,50:393e46,100:222831&height=200&section=header&text=Dipongkor%20Roy&fontSize=60&fontColor=eeeeee&animation=fadeIn&fontAlignY=40&desc=Full-Stack%20Developer%20%7C%20Problem%20Solver%20%7C%20Tech%20Enthusiast&descAlignY=65&descSize=20)
 
-<!-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dipongkor)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dipongkor)
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dipongkorroy000@gmail.com)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/dipongkorroy000)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://dipongkorroy000.vercel.app) -->
+[![Portfolio](https://img.shields.io/badge/-Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://dipongkorroy000.vercel.app)
 
 </div> -->
 
