@@ -59,18 +59,30 @@
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/linux.png" height="40" alt="Git" />
 </div> -->
 
-<div>
-  
-<h3 align="">🛠 Technologies I Work With</h3>
-Languages
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,c,cpp,python" height="45" />
-Frameworks & Libraries
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,redux" height="45" />
-Databases & ORM
-<img src="https://skillicons.dev/icons?i=mongodb,postgresql,prisma,firebase" height="45" />
-Tools & DevOps
-<img src="https://skillicons.dev/icons?i=git,docker,postman,linux,vscode,figma" height="45" />
-  
+<div align="center">
+
+<h3 align="">🛠️ Technologies I Work With</h3>
+
+<p align="left">
+  <strong>Languages</strong><br>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,c,cpp,python" height="45" />
+</p>
+
+<p align="left">
+  <strong>Frameworks & Libraries</strong><br>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,redux" height="45" />
+</p>
+
+<p align="left">
+  <strong>Databases & ORM</strong><br>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,prisma,firebase" height="45" />
+</p>
+
+<p align="left">
+  <strong>Tools & DevOps</strong><br>
+  <img src="https://skillicons.dev/icons?i=git,docker,postman,linux,vscode,figma" height="45" />
+</p>
+
 </div>
 
 ---
