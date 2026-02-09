@@ -13,40 +13,6 @@
 ---
 
 <div align="center">
-<table style="border-collapse: collapse; width: 100%; max-width: 800px;">
-  <tr style="background: linear-gradient(90deg, #0d1117 0%, #161b22 100%);">
-    <td style="padding: 20px; border: 1px solid #30363d; border-radius: 8px;">
-      <table style="width: 100%;">
-        <tr>
-          <td style="padding: 10px; text-align: left; vertical-align: top; width: 50%;">
-            <p>🚀 <strong>Currently Building</strong><br>
-            <span style="color: #8b949e;">Scalable E-commerce Platform</span></p>
-            
-            <p>📚 <strong>Exploring</strong><br>
-            <span style="color: #8b949e;">Advanced Next.js & PostgreSQL</span></p>
-            
-            <p>⚡ <strong>Passionate About</strong><br>
-            <span style="color: #8b949e;">Open Source & Tech Blogging</span></p>
-          </td>
-          
-          <td style="padding: 10px; text-align: left; vertical-align: top; width: 50%;">
-            <p>🌱 <strong>Growing In</strong><br>
-            <span style="color: #8b949e;">Next.js Ecosystem</span></p>
-            
-            <p>💻 <strong>Currently Learning</strong><br>
-            <span style="color: #8b949e;">C++ (DSA) & Python (OOP)</span></p>
-            
-            <p>🎯 <strong>Future Goals</strong><br>
-            <span style="color: #8b949e;">Microservices & Cloud Architecture</span></p>
-          </td>
-        </tr>
-      </table>
-    </td>
-  </tr>
-</table>
-</div>
-
-<div align="center">
 <table style="border: none; border-collapse: collapse; width: 100%; max-width: 700px;">
   <tr>
     <td style="padding: 0; border: none;">
