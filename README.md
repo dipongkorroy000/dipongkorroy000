@@ -10,44 +10,8 @@
 </div> -->
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=800&height=45&duration=4000&lines=Hi+%F0%9F%91%8B+I'm+Dipongkor+Roy;Full-Stack+Web+Developer+%7C+Problem+Solver+%7C+Tech+Enthusiast" alt="Typing SVG" />
----
 
-<div align="center">
-<table style="border: none; border-collapse: collapse; width: 100%; max-width: 700px;">
-  <tr>
-    <td style="padding: 0; border: none;">
-      <table style="width: 100%; border-spacing: 10px;">
-        <tr>
-          <td style="background-color: #0d1117; padding: 15px; border-radius: 8px; border: 1px solid #30363d;">
-            <strong>🔭 Building</strong><br>
-            <small>Scalable E-commerce Platform</small>
-          </td>
-          <td style="background-color: #0d1117; padding: 15px; border-radius: 8px; border: 1px solid #30363d;">
-            <strong>📚 Exploring</strong><br>
-            <small>Next.js & PostgreSQL</small>
-          </td>
-        </tr>
-        <tr>
-          <td style="background-color: #0d1117; padding: 15px; border-radius: 8px; border: 1px solid #30363d;">
-            <strong>⚡ Passionate</strong><br>
-            <small>Open Source & Blogging</small>
-          </td>
-          <td style="background-color: #0d1117; padding: 15px; border-radius: 8px; border: 1px solid #30363d;">
-            <strong>🌱 Growing In</strong><br>
-            <small>Next.js Ecosystem</small>
-          </td>
-        </tr>
-        <tr>
-          <td colspan="2" style="background-color: #0d1117; padding: 15px; border-radius: 8px; border: 1px solid #30363d; text-align: center;">
-            <strong>💻 Currently Learning</strong><br>
-            <small>C++ for DSA & Python for OOP</small>
-          </td>
-        </tr>
-      </table>
-    </td>
-  </tr>
-</table>
-</div>
+---
 
 <div align="center">
 <table style="width: 100%; max-width: 800px; border-collapse: collapse;">
