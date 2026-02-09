@@ -202,7 +202,6 @@
         </div>
       </div>
     </td>
-    
     <!-- Frontend -->
     <td style="vertical-align: top; width: 20%;">
       <div style="text-align: left; background: rgba(88, 166, 255, 0.1); padding: 15px; border-radius: 10px; border-left: 4px solid #58a6ff;">
@@ -216,7 +215,6 @@
         </div>
       </div>
     </td>
-    
     <!-- Backend -->
     <td style="vertical-align: top; width: 20%;">
       <div style="text-align: left; background: rgba(88, 166, 255, 0.1); padding: 15px; border-radius: 10px; border-left: 4px solid #58a6ff;">
@@ -245,7 +243,6 @@
         </div>
       </div>
     </td>
-    
     <!-- Other Tools -->
     <td colspan="2" style="vertical-align: top; width: 40%;">
       <div style="text-align: left; background: rgba(88, 166, 255, 0.1); padding: 15px; border-radius: 10px; border-left: 4px solid #58a6ff;">
