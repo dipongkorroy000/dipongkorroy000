@@ -22,6 +22,33 @@
   💻 Currently Learning <b>C++</b> for DSA & <b>Python</b> for OOP <br>
 </p>
 
+<style>
+  .tech-icon {
+    position: relative;
+    transition: transform 0.3s ease;
+  }
+  
+  .tech-icon:hover {
+    transform: scale(1.1);
+  }
+  
+  .tech-icon:hover::after {
+    content: attr(title);
+    position: absolute;
+    bottom: -30px;
+    left: 50%;
+    transform: translateX(-50%);
+    background: rgba(0, 0, 0, 0.8);
+    color: white;
+    padding: 5px 10px;
+    border-radius: 4px;
+    font-size: 12px;
+    white-space: nowrap;
+    z-index: 100;
+  }
+</style>
+<img src="https://skillicons.dev/icons?i=js" height="45" title="JavaScript" alt="JavaScript" class="tech-icon" />
+
 <div align="left">
 <h3 align="">🛠️ Technologies I Work With</h3>
 
