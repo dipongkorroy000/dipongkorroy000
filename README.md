@@ -114,3 +114,152 @@
 <p align="">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
 </p>
+
+
+
+
+
+<div align="center">
+<h3 align="">🛠️ Technologies I Work With</h3>
+
+<p align="left">
+  <strong>1. Languages</strong><br>
+  <div style="display: flex; gap: 10px; margin-top: 5px; flex-wrap: wrap;">
+    <img src="https://skillicons.dev/icons?i=html" height="45" title="HTML5" alt="HTML5" />
+    <img src="https://skillicons.dev/icons?i=css" height="45" title="CSS3" alt="CSS3" />
+    <img src="https://skillicons.dev/icons?i=js" height="45" title="JavaScript" alt="JavaScript" />
+    <img src="https://skillicons.dev/icons?i=ts" height="45" title="TypeScript" alt="TypeScript" />
+    <img src="https://skillicons.dev/icons?i=c" height="45" title="C" alt="C" />
+    <img src="https://skillicons.dev/icons?i=cpp" height="45" title="C++" alt="C++" />
+    <img src="https://skillicons.dev/icons?i=python" height="45" title="Python" alt="Python" />
+  </div>
+</p>
+
+<p align="left">
+  <strong>2. Frontend</strong><br>
+  <div style="display: flex; gap: 10px; margin-top: 5px; flex-wrap: wrap;">
+    <img src="https://skillicons.dev/icons?i=react" height="45" title="React" alt="React" />
+    <img src="https://skillicons.dev/icons?i=nextjs" height="45" title="Next.js" alt="Next.js" />
+    <img src="https://skillicons.dev/icons?i=tailwind" height="45" title="Tailwind CSS" alt="Tailwind CSS" />
+    <img src="https://skillicons.dev/icons?i=redux" height="45" title="Redux" alt="Redux" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/reactrouter/reactrouter-original.svg" height="45" title="React Router" alt="React Router" />
+  </div>
+</p>
+
+<p align="left">
+  <strong>3. Backend</strong><br>
+  <div style="display: flex; gap: 10px; margin-top: 5px; flex-wrap: wrap;">
+    <img src="https://skillicons.dev/icons?i=nodejs" height="45" title="Node.js" alt="Node.js" />
+    <img src="https://skillicons.dev/icons?i=express" height="45" title="Express.js" alt="Express.js" />
+    <img src="https://jwt.io/img/pic_logo.svg" height="45" title="JWT (JSON Web Tokens)" alt="JWT" style="background:white; padding:5px; border-radius:5px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="45" title="Redis" alt="Redis" />
+  </div>
+</p>
+
+<p align="left">
+  <strong>4. Database</strong><br>
+  <div style="display: flex; gap: 10px; margin-top: 5px; flex-wrap: wrap;">
+    <img src="https://skillicons.dev/icons?i=mongodb" height="45" title="MongoDB" alt="MongoDB" />
+    <img src="https://skillicons.dev/icons?i=postgresql" height="45" title="PostgreSQL" alt="PostgreSQL" />
+    <img src="https://skillicons.dev/icons?i=prisma" height="45" title="Prisma" alt="Prisma" />
+    <img src="https://skillicons.dev/icons?i=firebase" height="45" title="Firebase" alt="Firebase" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongoose/mongoose-original.svg" height="45" title="Mongoose" alt="Mongoose" />
+  </div>
+</p>
+
+<p align="left">
+  <strong>5. Other Tools</strong><br>
+  <div style="display: flex; gap: 10px; margin-top: 5px; flex-wrap: wrap;">
+    <img src="https://skillicons.dev/icons?i=git" height="45" title="Git" alt="Git" />
+    <img src="https://skillicons.dev/icons?i=docker" height="45" title="Docker" alt="Docker" />
+    <img src="https://skillicons.dev/icons?i=postman" height="45" title="Postman" alt="Postman" />
+    <img src="https://skillicons.dev/icons?i=linux" height="45" title="Linux" alt="Linux" />
+    <img src="https://skillicons.dev/icons?i=vscode" height="45" title="VS Code" alt="VS Code" />
+    <img src="https://skillicons.dev/icons?i=figma" height="45" title="Figma" alt="Figma" />
+  </div>
+</p>
+</div>
+
+
+
+<div align="center">
+<h3 align="">🛠️ Technologies I Work With</h3>
+
+<table style="width: 100%; max-width: 1000px; border-collapse: separate; border-spacing: 15px 10px;">
+  <tr>
+    <!-- Languages -->
+    <td style="vertical-align: top; width: 20%;">
+      <div style="text-align: left; background: rgba(88, 166, 255, 0.1); padding: 15px; border-radius: 10px; border-left: 4px solid #58a6ff;">
+        <strong style="color: #58a6ff; display: block; margin-bottom: 12px; font-size: 16px;">1. Languages</strong>
+        <div style="display: flex; flex-wrap: wrap; gap: 8px;">
+          <img src="https://skillicons.dev/icons?i=html" height="38" title="HTML5" alt="HTML5" />
+          <img src="https://skillicons.dev/icons?i=css" height="38" title="CSS3" alt="CSS3" />
+          <img src="https://skillicons.dev/icons?i=js" height="38" title="JavaScript" alt="JavaScript" />
+          <img src="https://skillicons.dev/icons?i=ts" height="38" title="TypeScript" alt="TypeScript" />
+          <img src="https://skillicons.dev/icons?i=c" height="38" title="C" alt="C" />
+          <img src="https://skillicons.dev/icons?i=cpp" height="38" title="C++" alt="C++" />
+          <img src="https://skillicons.dev/icons?i=python" height="38" title="Python" alt="Python" />
+        </div>
+      </div>
+    </td>
+    
+    <!-- Frontend -->
+    <td style="vertical-align: top; width: 20%;">
+      <div style="text-align: left; background: rgba(88, 166, 255, 0.1); padding: 15px; border-radius: 10px; border-left: 4px solid #58a6ff;">
+        <strong style="color: #58a6ff; display: block; margin-bottom: 12px; font-size: 16px;">2. Frontend</strong>
+        <div style="display: flex; flex-wrap: wrap; gap: 8px;">
+          <img src="https://skillicons.dev/icons?i=react" height="38" title="React" alt="React" />
+          <img src="https://skillicons.dev/icons?i=nextjs" height="38" title="Next.js" alt="Next.js" />
+          <img src="https://skillicons.dev/icons?i=tailwind" height="38" title="Tailwind CSS" alt="Tailwind CSS" />
+          <img src="https://skillicons.dev/icons?i=redux" height="38" title="Redux" alt="Redux" />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/reactrouter/reactrouter-original.svg" height="38" title="React Router" alt="React Router" />
+        </div>
+      </div>
+    </td>
+    
+    <!-- Backend -->
+    <td style="vertical-align: top; width: 20%;">
+      <div style="text-align: left; background: rgba(88, 166, 255, 0.1); padding: 15px; border-radius: 10px; border-left: 4px solid #58a6ff;">
+        <strong style="color: #58a6ff; display: block; margin-bottom: 12px; font-size: 16px;">3. Backend</strong>
+        <div style="display: flex; flex-wrap: wrap; gap: 8px;">
+          <img src="https://skillicons.dev/icons?i=nodejs" height="38" title="Node.js" alt="Node.js" />
+          <img src="https://skillicons.dev/icons?i=express" height="38" title="Express.js" alt="Express.js" />
+          <img src="https://jwt.io/img/pic_logo.svg" height="38" title="JWT" style="background:white; padding:3px; border-radius:4px;" />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="38" title="Redis" alt="Redis" />
+        </div>
+      </div>
+    </td>
+  </tr>
+  
+  <tr>
+    <!-- Database -->
+    <td style="vertical-align: top; width: 20%;">
+      <div style="text-align: left; background: rgba(88, 166, 255, 0.1); padding: 15px; border-radius: 10px; border-left: 4px solid #58a6ff;">
+        <strong style="color: #58a6ff; display: block; margin-bottom: 12px; font-size: 16px;">4. Database</strong>
+        <div style="display: flex; flex-wrap: wrap; gap: 8px;">
+          <img src="https://skillicons.dev/icons?i=mongodb" height="38" title="MongoDB" alt="MongoDB" />
+          <img src="https://skillicons.dev/icons?i=postgresql" height="38" title="PostgreSQL" alt="PostgreSQL" />
+          <img src="https://skillicons.dev/icons?i=prisma" height="38" title="Prisma" alt="Prisma" />
+          <img src="https://skillicons.dev/icons?i=firebase" height="38" title="Firebase" alt="Firebase" />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongoose/mongoose-original.svg" height="38" title="Mongoose" alt="Mongoose" />
+        </div>
+      </div>
+    </td>
+    
+    <!-- Other Tools -->
+    <td colspan="2" style="vertical-align: top; width: 40%;">
+      <div style="text-align: left; background: rgba(88, 166, 255, 0.1); padding: 15px; border-radius: 10px; border-left: 4px solid #58a6ff;">
+        <strong style="color: #58a6ff; display: block; margin-bottom: 12px; font-size: 16px;">5. Other Tools</strong>
+        <div style="display: flex; flex-wrap: wrap; gap: 8px;">
+          <img src="https://skillicons.dev/icons?i=git" height="38" title="Git" alt="Git" />
+          <img src="https://skillicons.dev/icons?i=docker" height="38" title="Docker" alt="Docker" />
+          <img src="https://skillicons.dev/icons?i=postman" height="38" title="Postman" alt="Postman" />
+          <img src="https://skillicons.dev/icons?i=linux" height="38" title="Linux" alt="Linux" />
+          <img src="https://skillicons.dev/icons?i=vscode" height="38" title="VS Code" alt="VS Code" />
+          <img src="https://skillicons.dev/icons?i=figma" height="38" title="Figma" alt="Figma" />
+        </div>
+      </div>
+    </td>
+  </tr>
+</table>
+</div>
