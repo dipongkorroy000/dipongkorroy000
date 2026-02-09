@@ -48,6 +48,8 @@
 </table>
 </div>
 
+---
+
 <div align="center">
 <h3 align="" class="border">🛠️ Technologies I Work With</h3>
 
