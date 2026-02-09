@@ -61,12 +61,18 @@
 <p align="left">
   <strong>Frameworks & Libraries</strong><br>
   <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,redux" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/reactrouter/reactrouter-original.svg" height="45" alt="React Router" />
+  <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" height="45" alt="React Router" />
+  <img src="https://img.shields.io/badge/React%20Router-CA4245?logo=react-router&logoColor=white&style=flat" height="45" alt="React Router" />
 </p>
 <p align="left">
   <strong>Databases & ORM</strong><br>
- <img src="https://skillicons.dev/icons?i=mongodb,postgresql,prisma,firebase" height="45" />
-<img src="https://jwt.io/img/pic_logo.svg" height="45" alt="JWT" style="background:white; padding:5px; border-radius:5px;" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongoose/mongoose-original.svg" height="45" alt="Mongoose" />
+  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,prisma,firebase" height="45" />
+  <img src="https://jwt.io/img/pic_logo.svg" height="45" alt="JWT" style="background:white; padding:5px; border-radius:5px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongoose/mongoose-original.svg" height="45" alt="Mongoose" />
+  <img src="https://skillicons.dev/icons?i=redis" height="45" alt="Redis" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="45" alt="Redis" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" height="45" alt="Redis" />
 </p>
 <p align="left">
   <strong>Tools & DevOps</strong><br>
