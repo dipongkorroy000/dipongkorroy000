@@ -52,7 +52,6 @@
 
 <div align="center">
 <h3 align="" class="border">🛠️ Technologies I Work With</h3>
-
 <p align="left">
   <strong>Languages</strong><br>
   <div style="display: flex; gap: 10px; margin-top: 5px;">
@@ -64,7 +63,6 @@
     <img src="https://skillicons.dev/icons?i=cpp" height="45" title="C++" alt="C++" />
   </div>
 </p>
-
 <p align="left">
   <strong>Frameworks & Libraries</strong><br>
   <div style="display: flex; gap: 10px; margin-top: 5px;">
@@ -77,8 +75,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/reactrouter/reactrouter-original.svg" height="45" title="React Router" alt="React Router" />
   </div>
 </p>
-
-<p align="">
+<p align="left">
   <strong>Databases & ORM</strong><br>
   <div style="display: flex; gap: 10px; margin-top: 5px; flex-wrap: wrap;">
     <img src="https://skillicons.dev/icons?i=mongodb" height="45" title="MongoDB" alt="MongoDB" />
@@ -90,8 +87,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="45" title="Redis" alt="Redis" />
   </div>
 </p>
-
-<p align="">
+<p align="left">
   <strong>Tools & DevOps</strong><br>
   <div style="display: flex; gap: 10px; margin-top: 5px; flex-wrap: wrap;">
     <img src="https://skillicons.dev/icons?i=figma" height="45" title="Figma" alt="Figma" />
@@ -107,7 +103,6 @@
 ---
 
 <h3 align="center">🌐 Connect With Me</h3>
-
 <div align="center">
   <a href="mailto:dipongkorroy000@gmail.com"><img src="https://img.shields.io/badge/email-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/dipongkor"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
