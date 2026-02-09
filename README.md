@@ -59,7 +59,7 @@
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/linux.png" height="40" alt="Git" />
 </div> -->
 
-<div align="center">
+<div align="">
 
 <h3 align="">🛠️ Technologies I Work With</h3>
 
