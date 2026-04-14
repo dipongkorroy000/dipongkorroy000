@@ -2,4 +2,4 @@
 
 import dynamic from "next/dynamic";
 
-export const ClientThemeProvider = dynamic(() => import("../components/theme-provider").then((m) => m.ThemeProvider), {ssr: false});
+export const ClientThemeProvider = dynamic(() => import("./theme-provider").then((m) => m.ThemeProvider), {ssr: false});

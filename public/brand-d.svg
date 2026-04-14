@@ -1,0 +1,37 @@
+<svg width="512" height="512" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <filter id="softShadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="10" stdDeviation="12" flood-color="#000000" flood-opacity="0.22" />
+    </filter>
+    <pattern id="beigeTexture" width="14" height="14" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
+      <rect width="14" height="14" fill="#E6DEC9" />
+      <rect width="14" height="1.4" fill="#D8CFB8" />
+    </pattern>
+  </defs>
+
+  <!-- Outer D silhouette -->
+  <path
+    d="M90 70H236C343 70 430 157 430 264C430 371 343 458 236 458H90V70Z"
+    fill="url(#beigeTexture)"
+    filter="url(#softShadow)"
+  />
+
+  <!-- Inner cut-out -->
+  <path
+    d="M188 162H241C300 162 348 210 348 269C348 328 300 376 241 376H188V162Z"
+    fill="#1C1A17"
+  />
+
+  <!-- Red accent stripe -->
+  <polygon points="236,122 270,122 218,392 184,392" fill="#9D8670" />
+
+  <!-- Red outer accent curve -->
+  <path
+    d="M343 88C410 128 454 201 454 284C454 357 420 421 365 462L342 430C387 396 416 344 416 284C416 213 378 151 320 117L343 88Z"
+    fill="#B59F83"
+  />
+
+  <!-- Side notch details -->
+  <rect x="80" y="250" width="38" height="24" fill="#1C1A17" />
+  <rect x="334" y="250" width="34" height="24" fill="#1C1A17" />
+</svg>

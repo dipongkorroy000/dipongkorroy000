@@ -2,18 +2,22 @@ FROM node:20-alpine
 
 WORKDIR /app
 
-# pnpm globally install
 RUN npm install -g pnpm
 
+# enable reliable file watching in Docker (for realtime reload)
+ENV CHOKIDAR_USEPOLLING=true
+ENV WATCHPACK_POLLING=true
+ENV NEXT_TELEMETRY_DISABLED=1
+
 # dependency files copy
-COPY package.json .
+COPY package.json pnpm-lock.yaml ./
 
 # install dependencies inside container
 RUN pnpm install
 
-# copy source code
+# copy source code (used when no bind-mount)
 COPY . .
 
 EXPOSE 3000
 
-CMD ["pnpm", "dev"]
+CMD ["pnpm", "exec", "next", "dev", "-H", "0.0.0.0", "-p", "3000"]
