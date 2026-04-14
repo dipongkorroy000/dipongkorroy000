@@ -5,10 +5,12 @@ import {useEffect, useMemo, useRef, useState} from "react";
 import {STACK_DATA, type StackCategory} from "./data";
 
 function SkillItem({name, icon, role, level}: {name: string; icon: string; role: string; level: number}) {
+  const invertInDark = name === "GitHub" || name === "Express" || name === "Vercel";
+
   return (
     <div className="flex items-center gap-3 rounded-lg border border-border/70 bg-background/35 px-3 py-2.5">
       <div className="relative h-7 w-7 shrink-0">
-        <Image src={icon} alt={name} fill className="object-contain" unoptimized />
+        <Image src={icon} alt={name} fill className={`object-contain ${invertInDark ? "dark:invert" : ""}`} unoptimized />
       </div>
       <div className="min-w-0">
         <p className="truncate text-sm font-medium">{name}</p>

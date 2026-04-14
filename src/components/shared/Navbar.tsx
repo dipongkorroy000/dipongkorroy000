@@ -34,7 +34,7 @@ export default function Navbar() {
             <Image src="/brand-d.svg" height={42} width={42} alt="Dipongkor Roy logo" className="rounded-xl transition duration-300 hover:scale-105" />
             <div className="hidden sm:block leading-tight">
               <p className="text-sm font-semibold tracking-wide text-foreground">Dipongkor Roy</p>
-              <p className="text-[11px] uppercase tracking-[0.18em] text-muted-foreground">Full Stack Developer / Cyber Style</p>
+              <p className="text-[11px] uppercase tracking-[0.18em] text-muted-foreground">Full Stack Developer</p>
             </div>
           </Link>
 

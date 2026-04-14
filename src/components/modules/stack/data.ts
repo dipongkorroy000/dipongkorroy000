@@ -69,7 +69,7 @@ export const STACK_DATA: StackCategory[] = [
       },
       {
         name: "Express",
-        icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg",
+        icon: "https://cdn.simpleicons.org/express/000000",
         role: "BACKEND FRAMEWORK",
         level: 88,
       },
@@ -115,13 +115,13 @@ export const STACK_DATA: StackCategory[] = [
     items: [
       {
         name: "GitHub",
-        icon: "https://cdn.simpleicons.org/github/181717",
+        icon: "https://cdn.simpleicons.org/github/000000",
         role: "VERSION CONTROL",
         level: 95,
       },
       {
         name: "VS Code",
-        icon: "https://cdn.simpleicons.org/visualstudiocode/007ACC",
+        icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg",
         role: "CODE EDITOR",
         level: 70,
       },
@@ -136,12 +136,6 @@ export const STACK_DATA: StackCategory[] = [
         icon: "https://cdn.simpleicons.org/vercel/000000",
         role: "HOSTING PLATFORM",
         level: 80,
-      },
-      {
-        name: "Notion",
-        icon: "https://cdn.simpleicons.org/notion/000000",
-        role: "PRODUCTIVITY TOOL",
-        level: 85,
       },
       {
         name: "Postman",
