@@ -84,12 +84,12 @@
 <p align="left">
   <strong>1. Languages</strong><br>
   <div style="display: flex; gap: 10px; margin-top: 5px; flex-wrap: wrap;">
-    <!-- <img src="https://skillicons.dev/icons?i=html" height="45" title="HTML5" alt="HTML5" />
+    <img src="https://skillicons.dev/icons?i=html" height="45" title="HTML5" alt="HTML5" />
     <img src="https://skillicons.dev/icons?i=css" height="45" title="CSS3" alt="CSS3" />
     <img src="https://skillicons.dev/icons?i=js" height="45" title="JavaScript" alt="JavaScript" />
     <img src="https://skillicons.dev/icons?i=ts" height="45" title="TypeScript" alt="TypeScript" />
     <img src="https://skillicons.dev/icons?i=c" height="45" title="C" alt="C" />
-    <img src="https://skillicons.dev/icons?i=cpp" height="45" title="C++" alt="C++" /> -->
+    <img src="https://skillicons.dev/icons?i=cpp" height="45" title="C++" alt="C++" />
   </div>
 </p>
 <p align="left">
