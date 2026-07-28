@@ -103,6 +103,8 @@
     <img src="https://skillicons.dev/icons?i=ts" height="45" title="TypeScript" alt="TypeScript" />
     <img src="https://skillicons.dev/icons?i=c" height="45" title="C" alt="C" />
     <img src="https://skillicons.dev/icons?i=cpp" height="45" title="C++" alt="C++" />
+    <img src="https://skillicons.dev/icons?i=python" height="45" title="Python" alt="Python" />
+    
   </div>
 </p>
 <p align="left">
