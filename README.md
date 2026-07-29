@@ -57,22 +57,16 @@
 <p align="left"><strong>2. Frontend</strong></p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/reactrouter/reactrouter-original.svg" height="48" title="React Router" />
 </p>
 
 <p align="left"><strong>3. Backend</strong></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
-  <img src="https://jwt.io/img/pic_logo.svg" height="40" title="JWT" style="background:white; padding:3px; border-radius:4px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongoose/mongoose-original.svg" height="48" title="Mongoose" />
-  <img src="https://skillicons.dev/icons?i=prisma" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,prisma" />
 </p>
 
 <p align="left"><strong>4. Database</strong></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="48" title="Redis" />
-  <img src="https://skillicons.dev/icons?i=firebase" />
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,redis,firebase" />
 </p>
 
 <p align="left"><strong>5. Other Tools</strong></p>
