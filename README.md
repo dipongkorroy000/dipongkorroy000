@@ -46,41 +46,39 @@
 
 <!-- TECHNOLOGIES I WORK WITH SECTION -->
 <div align="center">
+  <h3>🛠️ Technologies I Work With</h3>
+</div>
 
-<h3>🛠️ Technologies I Work With</h3>
-
-<p><strong>1. Languages</strong></p>
-<p>
+<p align="left"><strong>1. Languages</strong></p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,c,cpp,python" />
 </p>
 
-<p><strong>2. Frontend</strong></p>
-<p>
+<p align="left"><strong>2. Frontend</strong></p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/reactrouter/reactrouter-original.svg" height="48" title="React Router" />
 </p>
 
-<p><strong>3. Backend</strong></p>
-<p>
+<p align="left"><strong>3. Backend</strong></p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express" />
   <img src="https://jwt.io/img/pic_logo.svg" height="40" title="JWT" style="background:white; padding:3px; border-radius:4px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongoose/mongoose-original.svg" height="48" title="Mongoose" />
   <img src="https://skillicons.dev/icons?i=prisma" />
 </p>
 
-<p><strong>4. Database</strong></p>
-<p>
+<p align="left"><strong>4. Database</strong></p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=mongodb,postgres" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="48" title="Redis" />
   <img src="https://skillicons.dev/icons?i=firebase" />
 </p>
 
-<p><strong>5. Other Tools</strong></p>
-<p>
+<p align="left"><strong>5. Other Tools</strong></p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=figma,vscode,postman,git,docker,linux" />
 </p>
-
-</div>
 
 ---
 
