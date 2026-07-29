@@ -45,56 +45,64 @@
 ---
 
 <!-- TECHNOLOGIES I WORK WITH SECTION -->
-<div align="center">
 <h3>🛠️ Technologies I Work With</h3>
-</div>
 
-<p><strong>1. Languages</strong></p>
-<p>
-  <img src="https://skillicons.dev/icons?i=html" height="45" title="HTML5" alt="HTML5" />
-  <img src="https://skillicons.dev/icons?i=css" height="45" title="CSS3" alt="CSS3" />
-  <img src="https://skillicons.dev/icons?i=js" height="45" title="JavaScript" alt="JavaScript" />
-  <img src="https://skillicons.dev/icons?i=ts" height="45" title="TypeScript" alt="TypeScript" />
-  <img src="https://skillicons.dev/icons?i=c" height="45" title="C" alt="C" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="45" title="C++" alt="C++" />
-  <img src="https://skillicons.dev/icons?i=python" height="45" title="Python" alt="Python" />
-</p>
+<h4>1. Languages</h4>
+<table>
+  <tr>
+    <td><img src="https://skillicons.dev/icons?i=html" height="40" title="HTML5" /></td>
+    <td><img src="https://skillicons.dev/icons?i=css" height="40" title="CSS3" /></td>
+    <td><img src="https://skillicons.dev/icons?i=js" height="40" title="JavaScript" /></td>
+    <td><img src="https://skillicons.dev/icons?i=ts" height="40" title="TypeScript" /></td>
+    <td><img src="https://skillicons.dev/icons?i=c" height="40" title="C" /></td>
+    <td><img src="https://skillicons.dev/icons?i=cpp" height="40" title="C++" /></td>
+    <td><img src="https://skillicons.dev/icons?i=python" height="40" title="Python" /></td>
+  </tr>
+</table>
 
-<p><strong>2. Frontend</strong></p>
-<p>
-  <img src="https://skillicons.dev/icons?i=react" height="45" title="React" alt="React" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="45" title="Next.js" alt="Next.js" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="45" title="Tailwind CSS" alt="Tailwind CSS" />
-  <img src="https://skillicons.dev/icons?i=redux" height="45" title="Redux" alt="Redux" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/reactrouter/reactrouter-original.svg" height="45" title="React Router" alt="React Router" />
-</p>
+<h4>2. Frontend</h4>
+<table>
+  <tr>
+    <td><img src="https://skillicons.dev/icons?i=react" height="40" title="React" /></td>
+    <td><img src="https://skillicons.dev/icons?i=nextjs" height="40" title="Next.js" /></td>
+    <td><img src="https://skillicons.dev/icons?i=tailwind" height="40" title="Tailwind CSS" /></td>
+    <td><img src="https://skillicons.dev/icons?i=redux" height="40" title="Redux" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/reactrouter/reactrouter-original.svg" height="40" title="React Router" /></td>
+  </tr>
+</table>
 
-<p><strong>3. Backend</strong></p>
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs" height="45" title="Node.js" alt="Node.js" />
-  <img src="https://skillicons.dev/icons?i=express" height="45" title="Express.js" alt="Express.js" />
-  <img src="https://jwt.io/img/pic_logo.svg" height="45" title="JWT" alt="JWT" style="background:white; padding:3px; border-radius:4px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongoose/mongoose-original.svg" height="45" title="Mongoose" alt="Mongoose" />
-  <img src="https://skillicons.dev/icons?i=prisma" height="45" title="Prisma" alt="Prisma" />
-</p>
+<h4>3. Backend</h4>
+<table>
+  <tr>
+    <td><img src="https://skillicons.dev/icons?i=nodejs" height="40" title="Node.js" /></td>
+    <td><img src="https://skillicons.dev/icons?i=express" height="40" title="Express.js" /></td>
+    <td><img src="https://jwt.io/img/pic_logo.svg" height="40" title="JWT" style="background:white; padding:3px; border-radius:4px;" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongoose/mongoose-original.svg" height="40" title="Mongoose" /></td>
+    <td><img src="https://skillicons.dev/icons?i=prisma" height="40" title="Prisma" /></td>
+  </tr>
+</table>
 
-<p><strong>4. Database</strong></p>
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb" height="45" title="MongoDB" alt="MongoDB" />
-  <img src="https://skillicons.dev/icons?i=postgresql" height="45" title="PostgreSQL" alt="PostgreSQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="45" title="Redis" alt="Redis" />
-  <img src="https://skillicons.dev/icons?i=firebase" height="45" title="Firebase" alt="Firebase" />
-</p>
+<h4>4. Database</h4>
+<table>
+  <tr>
+    <td><img src="https://skillicons.dev/icons?i=mongodb" height="40" title="MongoDB" /></td>
+    <td><img src="https://skillicons.dev/icons?i=postgresql" height="40" title="PostgreSQL" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" title="Redis" /></td>
+    <td><img src="https://skillicons.dev/icons?i=firebase" height="40" title="Firebase" /></td>
+  </tr>
+</table>
 
-<p><strong>5. Other Tools</strong></p>
-<p>
-  <img src="https://skillicons.dev/icons?i=figma" height="45" title="Figma" alt="Figma" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="45" title="VS Code" alt="VS Code" />
-  <img src="https://skillicons.dev/icons?i=postman" height="45" title="Postman" alt="Postman" />
-  <img src="https://skillicons.dev/icons?i=git" height="45" title="Git" alt="Git" />
-  <img src="https://skillicons.dev/icons?i=docker" height="45" title="Docker" alt="Docker" />
-  <img src="https://skillicons.dev/icons?i=linux" height="45" title="Linux" alt="Linux" />
-</p>
+<h4>5. Other Tools</h4>
+<table>
+  <tr>
+    <td><img src="https://skillicons.dev/icons?i=figma" height="40" title="Figma" /></td>
+    <td><img src="https://skillicons.dev/icons?i=vscode" height="40" title="VS Code" /></td>
+    <td><img src="https://skillicons.dev/icons?i=postman" height="40" title="Postman" /></td>
+    <td><img src="https://skillicons.dev/icons?i=git" height="40" title="Git" /></td>
+    <td><img src="https://skillicons.dev/icons?i=docker" height="40" title="Docker" /></td>
+    <td><img src="https://skillicons.dev/icons?i=linux" height="40" title="Linux" /></td>
+  </tr>
+</table>
 
 ---
 
