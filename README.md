@@ -45,7 +45,9 @@
 ---
 
 <!-- TECHNOLOGIES I WORK WITH SECTION -->
+<div align="center">
 <h3>🛠️ Technologies I Work With</h3>
+</div>
 
 <p><strong>1. Languages</strong></p>
 <p>
