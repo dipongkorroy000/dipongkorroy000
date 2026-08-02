@@ -12,7 +12,7 @@
   <tr>
     <td style="padding: 8px 12px; border-left: 3px solid #238636;">
       <strong style="color: #238636; font-size: 13px;">🔭 Current Focus</strong><br>
-      <span style="font-size: 12px;">Building a e commerce ecommerce website like Startech with modern stack</span>
+      <span style="font-size: 12px;">Building a ecommerce website like Startech with modern stack</span>
     </td>
   </tr>
   <tr>
