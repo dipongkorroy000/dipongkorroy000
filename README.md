@@ -1,6 +1,6 @@
 <!-- HEADER SECTION -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=800&height=45&duration=4000&lines=Hi+%F0%9F%91%8B+I'm+Dipongkor__;Full-Stack+Web+Developer+%7C+Problem+Solver+%7C+Tech+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=800&height=45&duration=4000&lines=Hi+%F0%9F%91%8B+I'm+Dipongkor__;Full-Stack+Developer+%7C+Problem+Solver+%7C+Tech+Enthusiast" alt="Typing SVG" />
 </div>
 
 ---
@@ -12,7 +12,7 @@
   <tr>
     <td style="padding: 8px 12px; border-left: 3px solid #238636;">
       <strong style="color: #238636; font-size: 13px;">🔭 Current Focus</strong><br>
-      <span style="font-size: 12px;">Building a Chat-App like WhatsApp with modern stack</span>
+      <span style="font-size: 12px;">Building a e commerce ecommerce website like Startech with modern stack</span>
     </td>
   </tr>
   <tr>
@@ -30,7 +30,7 @@
   <tr>
     <td style="padding: 8px 12px; border-left: 3px solid #db6d28;">
       <strong style="color: #db6d28; font-size: 13px;">💻 Learning Journey</strong><br>
-      <span style="font-size: 12px;">C++ for Data Structures & Algorithms | Python for Object-Oriented Programming</span>
+      <span style="font-size: 12px;">C++ for Data Structures & Algorithms</span>
     </td>
   </tr>
   <tr>
