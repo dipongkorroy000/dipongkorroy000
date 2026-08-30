@@ -7,7 +7,7 @@
 │  class Developer {                                                                       │
 │  public:                                                                                 │
 │      string name = "Dipongkor";                                                          │
-│      string role = "Full Stack Developer";                                               │
+│      string role = "Developer";                                                          │
 │                                                                                          │
 │      bool open_to_collaborate = true;                                                    │
 │      bool loves_programming = true;                                                      │
