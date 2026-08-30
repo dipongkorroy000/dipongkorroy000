@@ -7,8 +7,6 @@
 │  class Developer {                                                                       │
 │  public:                                                                                 │
 │      string name = "Dipongkor";                                                          │
-│      string city = "Dinajpur";                                                           │
-│      string country = "Bangladesh";                                                      │
 │      string role = "Full Stack Developer";                                               │
 │                                                                                          │
 │      bool open_to_collaborate = true;                                                    │
