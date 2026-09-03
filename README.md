@@ -7,7 +7,6 @@
 │  class Developer {                                                                       │
 │  public:                                                                                 │
 │      string name = "Dipongkor";                                                          │
-│      string role = "Developer";                                                          │
 │                                                                                          │
 │      bool open_to_collaborate = true;                                                    │
 │      bool loves_programming = true;                                                      │
@@ -18,7 +17,7 @@
 │                                                                                          │
 │      vector<string> frontend = {"React", "Next.js", "Tailwind CSS", "Redux"};            │
 │                                                                                          │
-│      vector<string> backend = {"Node.js", "Express.js"};                                 │
+│      vector<string> backend = {"Express.js", "Prisma", "mongoose", "Echo", "GORM"};      │
 │                                                                                          │
 │      vector<string> databases = {                                                        │
 │          "MongoDB", "PostgreSQL", "MySQL", "Redis", "Firebase"                           │
